@@ -20,8 +20,7 @@
 
 title: "SugarCaneNS: The Home of Nathaniel Schmidt"
 email: "schmidty2244@gmail.com"
-description: > # this means to ignore newlines until "baseurl:"
-This is the (or at least a) website of Nathaniel Schmidt's.  Contained here are my software projects and repositories, as well as my blog.
+description: "This is the (or at least a) website of Nathaniel Schmidt's.  Contained here are my software projects and repositories, as well as my blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SugarCaneNS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
