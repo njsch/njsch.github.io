@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: The complexity(s) that is / are me
 permalink: /about/
 ---
 
