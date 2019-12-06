@@ -27,9 +27,15 @@ My Uncle [Stuart](https://stuartmcdonald.com.au/page6.html) is a behavioural exe
 The same could be said of [Grace to You (GTY)](https://www.gty.org/) with John MacArthur.
 [Ligonier Ministries](https://www.ligonier.org/) is also a helpful teaching resource with articles, books, and audio / video teaching material (sermons and lectures).
 
+## Christian Apologetics Resources:
+[Rev. Dr. John Dickson ](http://www.johndickson.org/bio) is an ancient historian, as well as an internationally renowned author and speaker.  His [website](www.johndickson.org), [public Facebook profile](https://www.facebook.com/john.dickson.9406417) and podcast &ldquo;<a href = "https://undeceptions.com/"> Undeceptions</a>&rdquo;' have been set up with a large focus on defending the Christian faith.  John's expert focus is on the existence and life of the historical Jesus.
+James White's [Alpha and Omega Ministries (AOMin)](https://www.aomin.org/) has some great resources for dealing with other faiths and sects.
+Nick Peters' [Deeper Waters](https://www.deeperwatersapologetics.com/) has some great interviews with Academics and Scholars within various fields of science, philosophy and theology.
+
 ## Accessibility and Other Blindness-related Links:
 ### Christian Resources for the Blind and Vision Impaired:
 These can be the rarest and hardest to find, so here is a short list.  Descriptions are not provided.  But anyone interested can find out by going to the relevant wsbsites:
 * [Optasia Ministry](http://optasiaministry.org/)
 * [Bartimaeus Alliance of the Blind](http://bartimaeus.us/)
 * [The homepage of Prof. Sarah LaRose](http://www.sarahblakelarose.com/)
+* [Institute on Theology and Disability](https://faithanddisability.org/)
