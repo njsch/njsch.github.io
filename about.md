@@ -8,7 +8,7 @@ Part of the answer to this question largely depends on your subjective interpret
 
 Perhaps you get to decide.  Perhaps I get to decide.  But ultimately, truthfully, you have reached the culmination of a few of the things that (within the online world; and sometimes the real world) occupies the time, energy and attention of the owner of this sub-domain, as per the title on the homepage.  Peruse at your own pleasure, or peril; whatever tickles, or taunts, your tastes!
 
-# Who am I?
+## Who am I?
 I am lots of things, really, which over time may not be hard to discover.  I was born totally blind.  I have a hereditary condition called Leber's Congenital Amaurosis; a genetic eye condition which has damaged the retina in the back of my eye.  Technically, mostly, my eyes can probably see perfectly fine and the visual part of my brain works fine.  But all of the sent and received messages do not get through to (and from) my brain.  I cannot see anything at all -- not even light.
 
 Unfortunately, because of the unique and complicated way my life has panned out, I have basically semi-achieved a lot of things.  I finished high school with a Victorian Certificate of Education (year twelve), studied technical production (sound / audio engineering) at the Northern Rivers academy of Music, then studied a bachelor of Arts and then Psychological Science at [La Trobe University Albury-Wodonga](https://www.latrobe.edu.au/aw/).  I have a semi-formal interest in theology.  I have done and enjoy rock-climbing, playing the drums, reading (not well disciplined by genre), windsurfing, playing blind cricket, travelling to see new places, as well as many other things.  When I was about three years old, I would frequently steal spoonfuls of sugar from my Aunty's (and I believe my maternal grandmother's) sugar bowl in the kitchen, while the less logical and practical adults were busy having deep-and-meaningful conversations about the weather.  I like to be practical, straight-down-the-line with no nonsense.
@@ -16,7 +16,7 @@ Unfortunately, because of the unique and complicated way my life has panned out,
 I consider myself to be a servant of the I AM.  The reason why I am where I am is because of the I AM.
   If you don't know what that means, you can either look it up and / or read some of my posts to try and figure it out.
 
-# Focus - Why this Site?
+## Focus - Why this Site?
 Currently, there are two main features of this site:
 
 * My blog: This is intended to be an expressive container of things that I hope others in various circles may find interesting.  Topics covered may include subjects as broad as disability, theology, politics, culture, ethics, software / coding endeavours, history, music, perhaps some very general posts about anything, references to other people's posts and ideas, etc.  This is a comment-free blog, partly because the blogging platform I use does not support such capability but also because there will be times where I will simply not have the time or energy to moderate public communication from the populous that is the internet.
