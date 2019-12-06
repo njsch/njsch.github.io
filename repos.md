@@ -1,7 +1,7 @@
 ﻿	---
 layout: page
 title: My Repositories
-permalink: /contact/
+permalink: /repos/
 ---
 
 The list below contains the repositories of projects that I manage.
