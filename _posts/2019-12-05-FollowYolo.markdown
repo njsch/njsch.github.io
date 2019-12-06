@@ -9,6 +9,8 @@ More than likely, unless you've been living in a cave somewhere in the middle of
 (to see why I do not endorse the above book, take a look at [this very good review](https://www.challies.com/articles/the-bestsellers-your-best-life-now/) by author and blogger [Tim Challies](https://www.challies.com/).
 
 These thoughts entered into my mind as I saw a post from a Facebook acquaintance who had openly asked for peoples' opinions regarding a meme they had seen, which had been re-posted via cognitive and neuropsychologist [Dr. Caroline Leaf](https://drleaf.com/pages/about-dr-leaf):
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdrleaf%2Fposts%2F10156523028411078%3A0&width=500" width="500" height="613" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 For those who cannot see the text of the photo, it states:
 ```You’ve gotta start romanticizing your life. you gotta start believing that your morning commute is cute and fun, that every cup of coffee is the best you’ve ever had, that even the smallest and most mundane things are exciting and new. you have to, because that’s when you start truly living. that‘s when you look forward to every day.```
 
