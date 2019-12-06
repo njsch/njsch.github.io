@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Follow the YOLO?"
+title: "Follow the YOLO"
 date:   2019-12-05 12:34:27 +0100
 categories: Theology, Psychology, Positive Psychology, Social Psychology.
 ---
