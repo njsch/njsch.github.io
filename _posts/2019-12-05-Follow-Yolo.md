@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: "Follow the YOLO?"
 date: 2019-12-05 12:34:27 +0100
@@ -12,16 +12,16 @@ These thoughts entered into my mind as I saw a post from a Facebook acquaintance
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdrleaf%2Fposts%2F10156523028411078%3A0&width=500" width="500" height="613" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 For those who cannot see the text of the photo, it states:
-```You’ve gotta start romanticizing your life. you gotta start believing that your morning commute is cute and fun, that every cup of coffee is the best you’ve ever had, that even the smallest and most mundane things are exciting and new. you have to, because that’s when you start truly living. that‘s when you look forward to every day.```
+```Youâ€™ve gotta start romanticizing your life. you gotta start believing that your morning commute is cute and fun, that every cup of coffee is the best youâ€™ve ever had, that even the smallest and most mundane things are exciting and new. you have to, because thatâ€™s when you start truly living. thatâ€˜s when you look forward to every day.```
 
 I am sure that whoever put this meme together had good intentions and wanted to send a helpful message.  But that's just it: is it sending a truly helpful message? Does it really help to give one a more positive outlook on life; that life is more exciting, if one would just treat every moment as if it were the greatest out of all other moments? Is it true that if we believe things are better, that they will then, at the very most, actually get better? Or at the very least, that we will feel better?
 
-I suspect such questions would produce mixed answers from the populous.  Unfortunately, as nice as it may sound in theory, more than likely it is actually a rather unproductive – perhaps even destructive – way to think.  There are a number of factors, or even consequences, worth considering in light of the above assumptions:
+I suspect such questions would produce mixed answers from the populous.  Unfortunately, as nice as it may sound in theory, more than likely it is actually a rather unproductive â€“ perhaps even destructive â€“ way to think.  There are a number of factors, or even consequences, worth considering in light of the above assumptions:
 * The whole approach to life in this instance is only a very temporary escape from reality.  It creates a distraction from life's problems and circumstances, rather than allowing one to be honest with oneself about how genuinely good or mild, or bad, something really is.
 ** Consequently, it could cause a person to end up feeling even worse than they did before.
 * It superficially seals the deal, providing [confirmation bias](https://dictionary.apa.org/confirmation-bias/) for anyone who already believes that life will be better if you simply think, or believe, that it will be so.
 * It does not genuinely teach (or give a person) any authentic impression that they are valued or esteemed in any way.  It is almost, if not actually, a form of self-absorption, or even [idolatry](https://www.merriam-webster.com/dictionary/idolatry).  It puts oneself at the centre of the universe, allowing ones thoughts, if not actions, to supposedly demonstrate that one individual has the power to autonomously, almost magically, change the world.
-* In a big way, we do not live our best life now.  We do not only live once and then die once.  As someone who holds to a [Christian](https://www.gotquestions.org/what-is-a-Christian.html) worldview, seeing this as the best explanation for how the world operates, I believe that `it is appointed for people to die once?—?and after this, [to face] judgment` ([Hebrews 9:27](https://www.bible.com/bible/1713/HEB.9.27.CSB)).  I believe that people have an opportunity to die once and live twice, or to live once and die twice.
+* In a big way, we do not live our best life now.  We do not only live once and then die once.  As someone who holds to a [Christian](https://www.gotquestions.org/what-is-a-Christian.html) worldview, seeing this as the best explanation for how the world operates, I believe that `it is appointed for people to die once?â€”?and after this, [to face] judgment` ([Hebrews 9:27](https://www.bible.com/bible/1713/HEB.9.27.CSB)).  I believe that people have an opportunity to die once and live twice, or to live once and die twice.
  
  On a more <b>positive</b> note, it is a good idea to be grateful for things that we have in life: good things because they are a blessing and bad things because they can teach us lessons.  But it is also beneficial to us that we find practical solutions that really do help us in our daily lives.
 
