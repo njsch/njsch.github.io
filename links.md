@@ -45,7 +45,7 @@ Nick Peters' [Deeper Waters](https://www.deeperwatersapologetics.com/) has some 
 
 ## Accessibility and Other Blindness-related Links:
 ### Christian Resources for the Blind and Vision Impaired:
-These can be the rarest and hardest to find, so here is a short list.  Descriptions are not provided.  But anyone interested can find out by going to the relevant wsbsites:
+These can be the rarest and hardest to find, so here is a short list.  Descriptions are not provided.  But anyone interested can find out by going to the relevant websites:
 * [Optasia Ministry](http://optasiaministry.org/)
 * [Bartimaeus Alliance of the Blind](http://bartimaeus.us/)
 * [The homepage of Prof. Sarah LaRose](http://www.sarahblakelarose.com/)
