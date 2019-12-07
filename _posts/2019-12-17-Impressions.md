@@ -10,8 +10,8 @@ description: "Impressions, Bible, theology, greater love, last man off"
 At a church... on the outskirts of Capetown, Mr. Lizzermore was attending his granddaughter's christening. Half-way through the service, he felt a sudden urge to leave. He ran a hand through his unruly grey hair, trying to subdue the instinct that something was wrong. But he couldn't settle. Lizzie made his excuses to his wife and he climed into his pickup to drive home.
 
 A few minutes later, he arrived at his Cape Dutch house.  He climed the steps to the porch and fumbled with the keys &ndash; the unease had not subsided.  When he walked through the door, the phone rang.
-&ldquo;Hellow, is that Mr Lizzermore?&rdquo;
-&ldquo;Yes, hellow.&rdquo;
+&ldquo;Hello, is that Mr Lizzermore?&rdquo;
+&ldquo;Yes, hello.&rdquo;
 &ldquo;It's Sean Walker. Sven is okay.&rdquo;
 
 Lizzie birst into tears.
