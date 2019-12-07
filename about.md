@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WHERE AM I?!
+description: "Information about me"
 permalink: /about/
 ---
 

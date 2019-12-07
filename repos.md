@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: My Repositories
+description: "My software projects and package repositories or repos"
 permalink: /repos/
 ---
 

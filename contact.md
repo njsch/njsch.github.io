@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: Contact Me
+description: "My Nathaniel SChmidt contact information"
 permalink: /contact/
 ---
 

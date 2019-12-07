@@ -1,6 +1,7 @@
 ﻿---
 layout: page
 title: Useful Links
+description: "Links to useful and helpful websites."
 permalink: /links/
 ---
 

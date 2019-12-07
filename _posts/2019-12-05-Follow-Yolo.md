@@ -3,6 +3,7 @@ layout: post
 title: "Follow the YOLO?"
 date: 2019-12-05 12:34:27 +0100
 categories: Theology, Psychology, PositivePsychology, SocialPsychology.
+description: "Follow YOLO, psychology, cognitive, neuropsychology"
 ---
 
 More than likely, unless you've been living in a cave somewhere in the middle of nowhere, you have probably heard of the term &lsquo;<a href = "https://en.wikipedia.org/wiki/YOLO_(aphorism)"> YOLO </a>&rsquo;.  This idea that (apparently) <i>you only live once</i> is so inherently entrenched into our society at large that it would be no exaggeration to suggest that the vast majority of people probably take it completely for granted.  According to the  article referenced above from the all-reliable Wikipedia, even though the phrase has been around for over a century, it seems to have increasingly escalated since about 2012.  It seems to encapsulate everything in life, from the most mundane of every-day tasks to the most daring of dares.  The idea seems to be that we never know which moment could be our last.  Therefore, we must be living (or should live) our best life now.  The here-and-now is as good as it will ever get.  It springs to mind unhealthy books like Joel Osteen's &ldquo;Your Best Life Now&rdquo;, as well as other titleds along similar lines.
