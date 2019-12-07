@@ -22,9 +22,11 @@ Contained below, sorted by category but in no particular individual order, are s
 
 [TGC Australia](https://au.thegospelcoalition.org/) is a similar resource but for a specifically Australian audience.
 
+[David Murray](http://headhearthand.org/blog/) is a pastor who blogs on theology, health and burnout.
+
 [Wade Burleson](https://www.wadeburleson.org/) is someone I have always found fascenating to read.  He blogs on a broad-ish range of issues such as history, theology, justice, politics and more.  In some ways he is possibly border-line [heterodox](https://www.merriam-webster.com/dictionary/heterodox).  But especially from the standpoint of justice, he tends to talk about things that many others won't.
 
-###Science and Technology:
+### Science and Technology:
 Cosmologist and Astrophysicist Dr. Luke Barnes ([Western Sydney University](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_luke_barnes)) [has a blog](https://letterstonature.wordpress.com/), where he discusses all things nature.  He specialises in the fine-tuning of the universe.
 
 Aeronautical / Aerospace engineer James Garth has a Medium [blog](https://medium.com/@jgarth22) where he discusses science, history, apologetics and theology.
