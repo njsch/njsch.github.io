@@ -44,7 +44,9 @@ The same could be said of [Grace to You (GTY)](https://www.gty.org/) with John M
 
 James White's [Alpha and Omega Ministries (AOMin)](https://www.aomin.org/) has some great resources for dealing with other faiths and sects.
 
-Nick Peters' [Deeper Waters](https://www.deeperwatersapologetics.com/) has some great interviews with Academics and Scholars within various fields of science, philosophy and theology.
+Rudolph Boshoff is a lecturer from [South  African Theological Seminary](https://www.sats.edu.za/).  This website [Ad Lucem: Towards the light](adlucem.co) has many recourses for apologetics and theological reflection.
+
+Nick Peters' [Deeper Waters](https://www.deeperwatersapologetics.com/) has some great interviews with Academics and Scholars within various fields of science, philosophy and theology, as well as many review of academic scholarly resources.
 
 ## Accessibility and Other Blindness-related Links:
 ### Christian Resources for the Blind and Vision Impaired:
