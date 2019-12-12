@@ -8,7 +8,6 @@ permalink: /links/
 Contained below, sorted by category but in no particular individual order, are some links that I find worth looking at.  I have placed them here hoping that you will as well:
 
 ## Blogs:
-
 ### Religion and Spirituality:
 [Steve McAlpine](https://stephenmcalpine.com/) is a pastor from Perth who has a blog where he comments on political, cultural and spiritual issues of the day.  It is quite a popular blog, read and re-posted by other bloggers such as Tim Challies.
 
@@ -32,6 +31,15 @@ Cosmologist and Astrophysicist Dr. Luke Barnes ([Western Sydney University](http
 Aeronautical / Aerospace engineer James Garth has a Medium [blog](https://medium.com/@jgarth22) where he discusses science, history, apologetics and theology.
 
 My Uncle [Stuart](https://stuartmcdonald.com.au/page6.html) is a behavioural exercise physiologist, counseller, and researcher who also has a [blog](https://medium.com/@stuartmcdonald_60154) which I am told is listed by Medium as a specialist blog.  He discusses all things health, psychology, philosophy and theology.
+
+## Podcasts:
+### Science and Technology:
+[RadioLab](https://www.wnycstudios.org/podcasts/radiolab) is a podcasts that collects and discusses all sorts of informative bits and pieces about law, technology, science, philosophy and general knowledge.
+
+### Religion and Spirituality:
+[With All Due Respect](https://www.eternitynews.com.au/topics/with-all-due-respect/) is a podcast co-hosted by Sydney Anglican minister Rev. Dr. Michael Jensen and former Baptist minister and publishing editor for the [Australian College of Theology (ACT)](https://www.actheology.edu.au/) Megan Powell Du Toit.  They discuss lots of topics relevant to contemprorary culture and theology.
+
+[Sheologians](https://www.sheologians.com) is a podcast and blog hosted by Summer Jaeger and Joy Temby.  They tend to spend a lot of time talking theology and politics.
 
 ## Focussed Christian Ministries:
 ### Bible-Teaching Focusses
