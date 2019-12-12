@@ -3,7 +3,7 @@ layout: post
 title: "An Impression of Impressions"
 date: 2019-12-07 10:27:25 +1100
 categories: Theology, Testimonies, Anecdotes.
-description: "Impressions, Bible, theology, greater love, last man off"
+description: "At a church... on the outskirts of Capetown, Mr. Lizzermore was attending his granddaughter's christening. Half-way through the service, he felt a sudden urge to leave. He ran a hand through his unruly grey hair, trying to subdue the instinct that something was wrong. But he couldn't settle."
 ---
 
 <blockquote>
@@ -23,7 +23,7 @@ But it is this little anecdote that fascenates me, which I now draw some attenti
 
 Sometimes people report these things to come in the form of dreams or visions.  Within the last week or so, [BBC Radio 4 Extra](https://www.bbc.co.uk/radio4extra) aired an audio drama by Don Shaw, called &ldquo;[Greater Love](https://www.bbc.co.uk/programmes/b06sfw7d)&rdquo;.  It recounts the true story of a village in England, where many people died from an outbreak of Bubonic [Plague](https://www.medicinenet.com/plague_facts/article.htm) from 1665 - 1666, as told by the Anglican minister of that time and his wife.
 
-At one point, when the crisis was getting worse, they had a village meeting.  One of the villagers, a certain Marcial Howe, made the extremely risky offer to dig the graves and bury all those who died.  His justification for taking such a risk was because of a dream, or vision, that he claimed to have had, in which he caught the plague but then ultimately got better.  Eventually he did get sick.  But as he reportedly predicted, he apparently recovered and was very likely one of the small number of people who managed to survive the plague outbreak.
+At one point, when the crisis was getting worse, they had a village meeting.  One of the villagers, a certain Marcial Howe, made the extremely risky offer to dig the graves and bury all those who died.  His justification for taking such a risk was because of a dream, or vision, that he claimed to have had, in which he caught the plague but then ultimately got better.  Eventually he did get sick.  But as he reportedly predicted, he apparently recovered and was possibly one of the small number of people who managed to survive the plague outbreak.
 
 How on earth do people know these things? Can they actually happen? I have hardly ever been the kind of person who would rely very heavily on mental impressions upon the mind.  It has often seemed to me like too much of a superficial means of obtaining knowledge of anything.  But every-now-and-then, there are stories which crop up that do make one wonder.
 

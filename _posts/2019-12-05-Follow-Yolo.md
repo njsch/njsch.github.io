@@ -3,7 +3,7 @@ layout: post
 title: "Follow the YOLO?"
 date: 2019-12-05 12:34:27 +0100
 categories: Theology, Psychology, PositivePsychology, SocialPsychology.
-description: "Follow YOLO, psychology, cognitive, neuropsychology"
+description: "More than likely, unless you've been living in a cave somewhere in the middle of nowhere, you have probably heard of the term 'YOLO'"
 ---
 
 More than likely, unless you've been living in a cave somewhere in the middle of nowhere, you have probably heard of the term &lsquo;<a href = "https://en.wikipedia.org/wiki/YOLO_(aphorism)"> YOLO </a>&rsquo;.  This idea that (apparently) <i>you only live once</i> is so inherently entrenched into our society at large that it would be no exaggeration to suggest that the vast majority of people probably take it completely for granted.  According to the  article referenced above from the all-reliable Wikipedia, even though the phrase has been around for over a century, it seems to have increasingly escalated since about 2012.  It seems to encapsulate everything in life, from the most mundane of every-day tasks to the most daring of dares.  The idea seems to be that we never know which moment could be our last.  Therefore, we must be living (or should live) our best life now.  The here-and-now is as good as it will ever get.  It springs to mind unhealthy books like Joel Osteen's &ldquo;Your Best Life Now&rdquo;, as well as other titleds along similar lines.
@@ -15,7 +15,7 @@ These thoughts entered into my mind as I saw a post from a Facebook acquaintance
 For those who cannot see the text of the photo, it states:
 <blockquote>You’ve gotta start romanticizing your life. you gotta start believing that your morning commute is cute and fun, that every cup of coffee is the best you’ve ever had, that even the smallest and most mundane things are exciting and new. you have to, because that’s when you start truly living. that‘s when you look forward to every day.</blockquote>
 
-I am sure that whoever put this meme together had good intentions and wanted to send a helpful message.  But that's just it: is it sending a truly helpful message? Does it really help to give one a more positive outlook on life; that life is more exciting, if one would just treat every moment as if it were the greatest out of all other moments? Is it true that if we believe things are better, that they will then, at the very most, actually get better? Or at the very least, that we will feel better?
+I am sure that whoever put this meme together had good intentions and wanted to send a helpful message.  But that's just it: is it sending a truly helpful message? Is it true that if we believe things are better, that they will then, at the very most, actually get better? Or at the very least, that we will feel better?
 
 I suspect such questions would produce mixed answers from the populous.  Unfortunately, as nice as it may sound in theory, more than likely it is actually a rather unproductive – perhaps even destructive – way to think.  There are a number of factors, or even consequences, worth considering in light of the above assumptions:
 * The whole approach to life in this instance is only a very temporary escape from reality.  It creates a distraction from life's problems and circumstances, rather than allowing one to be honest with oneself about how genuinely good or mild, or bad, something really is.
