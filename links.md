@@ -34,10 +34,21 @@ Aeronautical / Aerospace engineer James Garth has a Medium [blog](https://medium
 My Uncle [Stuart](https://stuartmcdonald.com.au/page6.html) is a behavioural exercise physiologist, counseller, and researcher who also has a [blog](https://medium.com/@stuartmcdonald_60154) which I am told is listed by Medium as a specialist blog.  He discusses all things health, psychology, philosophy and theology.
 
 ## Focussed Christian Ministries:
+### Bible-Teaching Focusses
 [Insight for Living](https://insight.org/), the Bible-teaching ministry of Chuck Swindoll, is a ministry that has sustained some of my own spiritual growth for a long time.  They also have an [Australian website](https://www.ifl.org.au/).
 
 The same could be said of [Grace to You (GTY)](https://www.gty.org/) with John MacArthur.
+
 [Ligonier Ministries](https://www.ligonier.org/) is also a helpful teaching resource with articles, books, and audio / video teaching material (sermons and lectures).
+
+### Practical Needs Organisations:
+The [international](https://www.samaritanspurse.org/) and [Australia - New Zealand](https://www.samaritanspurse.org.au/) branches of Samaritan's Purse give aid to those needing disaster relief, education, church resources, sanitation and Operation Christmas Child.
+
+[Tear Australia](https://www.tear.org.au/) is a charity providing support to people in need of healthcare, sanitation, education, food security and many other things.
+
+[International Justice Mission](https://www.ijm.org/) is an organisation commited to the exposing and ending of slavery.  They licate and help local police to capture modern-day slave-owners and traders.
+
+
 
 ## Christian Apologetics Resources:
 [Rev. Dr. John Dickson ](http://www.johndickson.org/bio) is an ancient historian, as well as an internationally renowned author and speaker.  His [website](www.johndickson.org), [public Facebook profile](https://www.facebook.com/john.dickson.9406417) and podcast &ldquo;<a href = "https://undeceptions.com/"> Undeceptions</a>&rdquo; have been set up with a large focus on defending the Christian faith.  John's expert focus is on the existence and life of the historical Jesus.
