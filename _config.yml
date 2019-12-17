@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Home of Nathaniel Schmidt
+title: Nathaniel Schmidt
 email: ""
 description: This is the (or at least a) website of Nathaniel Schmidt's.  Contained here are my software projects and repositories, as well as my blog.
 
