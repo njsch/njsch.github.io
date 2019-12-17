@@ -3,5 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-description: "Home, Nathaniel Schmidt, blog, website, site"
+description: "The Home of Nathaniel Schmidt - my blog / website"
 ---
+
+# Welcome
+Welcome to the homepage of my [GitHub](http://github.com) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.
