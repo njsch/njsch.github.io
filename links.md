@@ -23,6 +23,8 @@ Contained below, sorted by category but in no particular individual order, are s
 
 [David Murray](http://headhearthand.org/blog/) is a pastor who blogs on theology, health and burnout.
 
+[Matt Moore](https://mattmoore.online/), son-in-law of author and  retired Baptist Minister John Piper, has a blog on theology which is quite enjoyable to read.
+
 [Wade Burleson](https://www.wadeburleson.org/) is someone I have always found fascenating to read.  He blogs on a broad-ish range of issues such as history, theology, justice, politics and more.  In some ways he is possibly border-line [heterodox](https://www.merriam-webster.com/dictionary/heterodox).  But especially from the standpoint of justice, he tends to talk about things that many others won't.
 
 ### Science and Technology:
