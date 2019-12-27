@@ -7,4 +7,4 @@ description: "The Home of Nathaniel Schmidt - my blog / website"
 ---
 
 # Home
-Welcome to the homepage of my [GitHub](http://github.com) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.
+Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.io) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.
