@@ -21,19 +21,27 @@ To be fair, you can tell from Morrison's inclusion of the prefaced phrase &ldquo
 What makes his comments even more disconcerting is their immediate situational and financial context.  He seems to be using this glib statement as a means of superficially justifying a refusal to immediately offer more professional resources towards the fire disaster, which certainly was the case at the time, even if it is ever so slightly not so much the case now.  He has made this statement amidst a difficult situation where firefighters are voluntarily attempting to provide basic necessities of food and water to surviving victims of bushfires, at the same time as continuing the process of actually attempting to bring those devastating fires under control.  He has underestimated the motivational desires and functional capabilities of the very people whom he claims to be supporting with his own words.  It is relatively clear that he actually does not understand them, where they are coming from and what their real needs are.
 
 Another relevant example would be some [comments](https://www.abc.net.au/news/2020-01-03/scott-morrison-responds-to-angry-criticism-bushfire-victims/11839674) from only several days ago.  After being strongly opposed by bushfire survivors for not providing sufficient resources to their satisfaction, he stated in response:
+
 > Well I don't take it personally.  I just see it as a sense of frustration and hurt and loss and anger, that is out there about what is the ferocity of these natural disasters.  And I understand that.  And we will seek to provide that comfort, support, in whatever way we can.
+
 > People are angry, I understand it.
+
 > People have suffered great loss. People are hurting. People are raw. That's what happens in natural disasters.
+
 > And we will continue to stay focused on exerting all of our effort to deliver all of the resources and all of the support to ensure that all of these communities can come through.
+
 > People are angry, and if people want to direct that at me, that is up to them.
+
 > It's not something that will distract me. It is something that I will empathise with.
+
 > It is something that I understand. It's not something for me to take personally.
+
 > My job is to stay focused on ensuring that we have the maximum coordination of effort across many states.
 
 There is a rather poignant and paradoxical two-fold observation that could be made from these statements:
 * On the one hand, the PM does not accept the legitimacy of certain words being directed at himself.  He blames the disaster themselves (which is partially valid) but does not accept personal responsibility:  
 &ldquo;... I don't take it personally.&rdquo;  
-&ldquol... if people want to direct that [anger] at me, that is up to them.&rdquo;  
+&ldquol;... if people want to direct that [anger] at me, that is up to them.&rdquo;  
 &ldquo;It's not something that will distract me.&rdquo;  
 &ldquo;It's not something for me to take personally.&rdquo;
 * On the other hand, he claims that he &lsquo;<i>understands</i>&rsquo;, even &lsquo;<i>empathises</i>&rsquo; with the situation of suffering survivers:  
