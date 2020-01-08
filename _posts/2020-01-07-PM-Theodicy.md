@@ -2,11 +2,11 @@
 layout: post
 title: "How Much Grace Should be Given to Prime Minister Who is Not a Pastor-Theologian? -- A Legitimate Prime Ministerial Dilemma, Part II"
 date: 2020-01-08 10:13:29 +1100
-categories: Politics, Theology, Business, Scomo, PMAust.
+categories: Politics Theology Business Scomo PMAustBushfires AustBushfires2019-20.
 description: "As discussed previously, it seems that there are at least two major, immediate problems facing our PM in his current position.  One of them is an ethical and functional issue of personal and political priorities, which has already been addressed.  The other issue is one of a more deeply philosophical and social nature.  To a large extent, it involves Scott Morrison's ability to be able, with maturity and sensitivity, to..."
 ---
 
-This is part II of a two-part series of posts concerning the personal (corporate, political and ideological) responses that have come from Australia's current Prime Minister, Scott Morrison, in response to the bushfire crisis ravaging this country at the moment.  Part I can be viewed [here]({% post_url 2020-01-04-Family-Business-Emergencies.md %}).
+This is part II of a two-part series of posts concerning the personal (corporate, political and ideological) responses that have come from Australia's current Prime Minister, Scott Morrison, in response to the bushfire crisis ravaging this country at the moment.  Part I can be viewed [here](https://sugarcanens.github.io/politics/theology/business/scomo/pmaust2020/01/04/Family-Business-Emergencies.html).
 
 As discussed previously, it seems that there are at least two major, immediate problems facing our PM in his current position.  One of them is an ethical and functional issue of personal and political priorities, which has already been addressed.  The other issue is one of a more deeply philosophical and social nature.  To a large extent, it involves Scott Morrison's ability to be able, with maturity and sensitivity, to adequately evaluate, as well as satisfactorily interact with the lives, situations, attitudes and feelings of others around him, beyond his own life, assumptions, feelings and social circles.
 

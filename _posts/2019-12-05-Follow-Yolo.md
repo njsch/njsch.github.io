@@ -2,7 +2,7 @@
 layout: post
 title: "Follow the YOLO?"
 date: 2019-12-05 12:34:27 +0100
-categories: Theology, Psychology, PositivePsychology, SocialPsychology.
+categories: Theology Psychology PositivePsychology SocialPsychology.
 description: "More than likely, unless you've been living in a cave somewhere in the middle of nowhere, you have probably heard of the term 'YOLO'"
 ---
 

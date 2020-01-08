@@ -2,7 +2,7 @@
 layout: post
 title: "The Heroes of the Flames"
 date: 2019-12-12 09:48:6 +1100
-categories: Music, Reflections.
+categories: Music Reflections Bushfires AustBushfires2019-20.
 description: "Australia is in for a very hot summer, probably hotter than average.  We had been forewarned about it quite early on.  And starting from September,the predictions have not been disappointed."
 ---
 

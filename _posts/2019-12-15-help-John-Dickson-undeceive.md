@@ -2,7 +2,7 @@
 layout: post
 title: "Help John Dickson Undeceive"
 date: 2019-12-15 15:10:10 +1100
-categories: Apologetics, Religion, Spirituality, Philosophy, ExternalRefs.
+categories: Apologetics Religion Spirituality Philosophy ExternalRefs.
 description: "Help John Dickson find undeceivers for his Undeceptions platform."
 ---
 

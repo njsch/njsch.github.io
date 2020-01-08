@@ -2,11 +2,11 @@
 layout: post
 title: "Family, Business, Emergencies, Theology -- A Legitimate Prime Ministerial Dilemma, Part I"
 date: 2020-01-04 13:59:16 +1100
-categories: Politics, Theology, Business, Scomo, PMAust.
+categories: Politics Theology Business Scomo PMAust Bushfires AustBushfires2019-20.
 description: "... A new year has begun.  But life has not given us much of a chance to settle in.  And in amongst the many on-going issues of significance facing the nation, especially the incredibly numerous and big bushfires, it seems our Prime Minister, Scott Morrison, is in trouble..."
 ---
 
-This is part I of a two-part series of posts concerning the personal (corporate, political and ideological) responses that have come from Australia's current Prime Minister, Scott Morrison, in response to the bushfire crisis ravaging this country at the moment.  Part II can be viewed [here]({% post_url 2020-01-07-PM-Theodicy.md %}).
+This is part I of a two-part series of posts concerning the personal (corporate, political and ideological) responses that have come from Australia's current Prime Minister, Scott Morrison, in response to the bushfire crisis ravaging this country at the moment.  Part II can be viewed [here](google.com).
 
 So, 2020 has finally arrived.  A new year has begun.  But life has not given us much of a chance to settle in.  And in amongst the many on-going issues of significance facing the nation, especially the incredibly numerous and big bushfires, it seems our Prime Minister, Scott Morrison, is in trouble... again.
 
@@ -33,4 +33,4 @@ I suppose in a couple of ways the following situational example may not be entir
 
 At the moment, our country is in a very tense spot.  Our PM is in a difficult position.  But perhaps, from a political and legal standpoint, there are better ways of managing the situation from both ends?
 
-[Continue to part II]({% post_url 2020-01-07-PM-Theodicy.md %}).
+[Continue to part II](google.com).

@@ -2,7 +2,7 @@
 layout: post
 title: "An Impression of Impressions"
 date: 2019-12-07 10:27:25 +1100
-categories: Theology, Testimonies, Anecdotes.
+categories: Theology Testimonies Anecdotes.
 description: "At a church... on the outskirts of Capetown, Mr. Lizzermore was attending his granddaughter's christening. Half-way through the service, he felt a sudden urge to leave. He ran a hand through his unruly grey hair, trying to subdue the instinct that something was wrong. But he couldn't settle."
 ---
 
