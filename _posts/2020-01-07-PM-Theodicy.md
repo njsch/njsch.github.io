@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "How Much Grace Should be Given to Prime Minister Who is Not a Pastor-Theologian? -- A Legitimate Prime Ministerial Dilemma, Part II"
+title: "How Much Grace Should be Given to A Prime Minister Who is Not a Pastor-Theologian? -- A Legitimate Prime Ministerial Dilemma, Part II"
 date: 2020-01-08 10:13:29 +1100
 categories: Politics Theology Business Scomo PMAustBushfires AustBushfires2019-20.
 description: "As discussed previously, it seems that there are at least two major, immediate problems facing our PM in his current position.  One of them is an ethical and functional issue of personal and political priorities, which has already been addressed.  The other issue is one of a more deeply philosophical and social nature.  To a large extent, it involves Scott Morrison's ability to be able, with maturity and sensitivity, to..."
