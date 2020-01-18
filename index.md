@@ -7,7 +7,6 @@ title: "Home"
 description: "The Home of Nathaniel Schmidt - my blog / Github-Pages website"
 ---
 
-# Hi there
 Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.io) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.
 
 #### A Note on Accessibility With Jekyll
