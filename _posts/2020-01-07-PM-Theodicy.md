@@ -41,7 +41,7 @@ Another relevant example would be some [comments](https://www.abc.net.au/news/20
 There is a rather poignant and paradoxical two-fold observation that could be made from these statements:
 * On the one hand, the PM does not accept the legitimacy of certain words being directed at himself.  He blames the disaster themselves (which is partially valid) but does not accept personal responsibility:  
 &ldquo;... I don't take it personally.&rdquo;  
-&ldquol;... if people want to direct that [anger] at me, that is up to them.&rdquo;  
+&ldquo;... if people want to direct that [anger] at me, that is up to them.&rdquo;  
 &ldquo;It's not something that will distract me.&rdquo;  
 &ldquo;It's not something for me to take personally.&rdquo;
 * On the other hand, he claims that he &lsquo;<i>understands</i>&rsquo;, even &lsquo;<i>empathises</i>&rsquo; with the situation of suffering survivers:  
