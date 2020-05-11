@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nathaniel Schmidt
-email: ""
+email: "schmidty2244@gmail.com"
 description: This is the (or at least a) website of Nathaniel Schmidt's.  Contained here are my software projects and repositories, as well as my blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://SugarCaneNS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://njsch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username:  SugarCaneNS
+github_username: njsch
 
 # Build settings
 theme: minima
