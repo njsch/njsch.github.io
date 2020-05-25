@@ -1,9 +1,10 @@
 ﻿---
 layout: page
 title: My Repositories
-description: "My software projects and package repositories or repos"
+description: "My software projects and package repositories (or repos)"
 permalink: /repos/
 ---
 
-The list below contains the repositories of projects that I manage.
+The list below contains the repos of projects that I manage.
 * [Latex-Access](https://github.com/njsch/latex-access): a software package written primarily in the [Python](https://www.python.org) programming language, which provides line-by-line translation of mathematics and scientific symbols from [LaTeX](https://www.latex-project.org/) formatting into various types and languages of [Braille](https://en.wikipedia.org/wiki/Braille) and speech.  Also provides many other features.  Useful for both lecturers / tutors in (and students of) various fields of mathematics, science and engineering.  Interfaces with [JAWS](https://www.freedomscientific.com/products/software/jaws/) and [NVDA](https://www.nvaccess.org/) on [Microsoft](https://www.microsoft.com/) [Windows](https://www.microsoft.com/windows/), as well as [Emacs](https://www.gnu.org/software/emacs/) and [BRLTTY](http://mielke.cc/brltty/) on Unix / [Linux](https://www.linuxfoundation.org/).
+  * Note: There are now at least three streams of the Latex-Access project.  The project repository that I manage has essentially been semi-officially depricated, primarily due to some unfortunate pragmatic issues that were created owing to my beginner's lack of experience with the Git VCS.  The [original project](http://latex-access.sourceforge.net) still gets very occasionally updated by co-founder Alastair Irving; and [Derek Riemer](https://derekriemer.com/) of [Colorado University](https://www.colorado.edu/) has [done some nice work](https://github.com/derekriemer/latex-access-matrix) extending my initial work with the NVDA add-on regarding its interaction with the L-A translator and matrix processor.
