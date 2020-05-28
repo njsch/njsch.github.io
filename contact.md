@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Contact Me
-description: "My Nathaniel SChmidt contact information"
+description: "Nathaniel Schmidt contact information"
 permalink: /contact/
 ---
 
@@ -9,4 +9,4 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 
 [Email me](mailto:schmidty2244@gmail.com)
 [Contact me on Facebook](https://www.facebook.com/nschmidtblog/)
-[Contact me on Twitter](https://twitter.com/sugarcanens/)
+[Follow me on GitHub](https://github.com/njsch)
