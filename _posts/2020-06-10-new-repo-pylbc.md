@@ -3,7 +3,7 @@ layout: post
 title:  "New Repository -- PyLBC"
 date:   2020-06-10 20:56:40 +1100
 categories: Software Technology Update GitHub.
-description: ""
+description: "I have just forked a new software code repository to my GitHub individual user account.  It is called PyLBC (Layout by Code for Python).  Essentially it is a very basic..."
 ---
 
 I have just [forked](https://help.github.com/en/github/getting-started-with-github/github-glossary#fork) a new software code repository to my GitHub individual user account.  It is called [PyLBC](https://github.com/njsch/pyLbc) (Layout by Code for Python).  Essentially it is a very basic [GUI](https://faculty.ist.psu.edu/jjansen/academic/pubs/chi.html) creator.  It allows a person to create fairly simple dialogs, windows and controls for receiving and interpreting information from the [end-user](https://techterms.com/definition/enduser) to the computer.  It can be used in conjunction with other modules and packages to create small-scale applications for practical use by anyone.
