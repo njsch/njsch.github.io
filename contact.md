@@ -17,3 +17,5 @@ Contact me via LinkedIn:
 Contact me via my [Deakin University student public profile](https://sync.deakin.edu.au/profiles/student/njschmidt/)
 
 Follow my activity on [GitHub](https://github.com/njsch/), [SourceForge](https://sourceforge.net/u/njschmidt/), [BitBucket](https://bitbucket.org/njsch/), [GitLab](https://gitlab.com/njsch), or on the [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/).
+
+[View my about.me page](https://about.me/njschmidt/).
