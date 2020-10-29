@@ -1,5 +1,5 @@
 ---
-title: "What If Everyone Had a Gun?"
+title: "What If Everyone Had (or did not have) a Gun?"
 date: 2020-10-27 14:10:00 +1100
 categories: Music Reflections Politics Law Guns Rights Texas Rangers TV show series.
 description: "Back in the early-mid 1950s, during the commonly-labelled and heavily American-influenced 'Golden Age of Radio'; and before television largely took over production of dramas and soap operas, for just over two years, listeners of the NBC Radio Network were entertained by the old-time radio show..."
