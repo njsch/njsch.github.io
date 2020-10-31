@@ -1,10 +1,11 @@
 ---
 layout: page
-title: WHERE AM I? (About this Site)
-description: "Information about me"
+title: About
+description: "About Nathaniel Schmidt Github Pages site, Blog and Repositories"
 permalink: /about/
 ---
 
+## WHERE AM I?!
 Part of the answer to this question largely depends on your subjective interpretation of &ldquo;I&rdquo;.  Is the intended recipient of this question, by 	definition, supposed to be you, the reader, or instead, is it me, the writer? Can it be both?
 
 Perhaps you get to decide.  Perhaps I get to decide.  But tossing aside the terminological pedanticness of arguably [one of the most famous wizzards in history](https://lotr.fandom.com/wiki/Gandalf), ultimately, truthfully, you have reached the culmination of a few of the things that (within the online world; and sometimes the real world) occupy the time, energy and attention of the owner of this sub-domain, as per the title on the homepage.  Peruse at your own pleasure, or peril; whatever tickles, or taunts, your tastes!
