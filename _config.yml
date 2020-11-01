@@ -21,7 +21,7 @@
 title: Nathaniel Schmidt
 name: Nathaniel Schmidt
 email: "schmidty2244@gmail.com"
-description: This is the (or at least a) website of Nathaniel Schmidt's.  Contained here are my software projects and repositories, as well as my blog.
+description: This is Nathaniel Schmidt's GitHub pages site.  Contained here are links to software project repositories, as well as the blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://njsch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,6 +35,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
+  
+  # Specific appearance and order of navigation links
+header_pages:
+  - index.md
+  - repos.md
+  - about.md
+    - contact.md
+  - 1689lbc.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
