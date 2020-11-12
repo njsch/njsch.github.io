@@ -40,7 +40,7 @@ plugins:
 header_pages:
   - index.md
   - repos.md
-  - portfolium.md
+  - portfolium.html
   - about.md
   - contact.md
   - 1689lbc.md
