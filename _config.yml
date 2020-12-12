@@ -39,10 +39,11 @@ plugins:
   # Specific appearance and order of navigation links
 header_pages:
   - index.md
-  - repos.md
-  - portfolium.md
   - about.md
   - contact.md
+  - repos.md
+  - eduvis.md
+  - portfolium.md
   - 1689lbc.md
 
 # Exclude from processing.
