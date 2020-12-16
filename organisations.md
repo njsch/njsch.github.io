@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisational Affiliations and Memberships
+title: Organisations
 description: "Here on this page you can find my affiliations with (and memberships of) companies and organisations I belong to at various levels and for various reasons."
 permalink: /organisations/
 ---
