@@ -9,7 +9,7 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 
 [Email me](mailto:schmidty2244@gmail.com)
 
-[Contact me on Facebook](https://www.facebook.com/nschmidtblog/)
+[Contact me on Facebook](https://www.facebook.com/whatpictureisthat/)
 
 Contact me via my [Deakin University student public profile](https://sync.deakin.edu.au/profiles/student/njschmidt/)
 
