@@ -2,6 +2,7 @@
 layout: page
 title: How to fill out the Victorian Border Entry Permit if you are Blind or Vision Impaired
 description: "Contained below are some instructions on how to fill out the Vic border entry form without sighted help - these have only been tested with Google Chrome on Windows 10 64-bit, v2004 with NVDA."
+permalink: /vicpermit/
 ---
 
 From 11:59 P.M. on Fri, 18 Dec 2020, The Victorian Government [introduced a permit](https://www.coronavirus.vic.gov.au/victorian-border-crossing-permit) for any person who wishes to re-enter the Victorian border, including non-NSW residents.  If you live in the Red zone (Northern Beaches), you categorically cannot enter the border.  If you live in the orange or green zones (Green being inclusive of regional NSW, you must possess a permit.  If you live on the border of Vic and NSW as a Vic resident then you must fill out the form.
