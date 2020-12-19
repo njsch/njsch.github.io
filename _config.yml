@@ -38,6 +38,7 @@ plugins:
   
   # Specific appearance and order of navigation links
 header_pages:
+  - vicpermit.md
   - index.md
   - repos.md
   - organisations.md
