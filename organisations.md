@@ -7,6 +7,9 @@ permalink: /organisations/
 
 Here on this page you can find my affiliations with (and memberships of) companies and organisations I belong to at various levels and for various reasons.
 
+## AuDA
+[Auda (AU Domain Administration)](https://www.auda.org.au/) is the organisation that defines the policies executed by domain name registrars, concerning Australian domains as identified by the `.au` domain name suffix.  I have an associate membership with this organisation.
+
 ## Australian Computer Society (ACS)
 The [ACS](https://www.acs.org.au/) is one of Australia's largest organisational bodies of IT professionals.  It approves many of the information technology, computer and data science courses that are studied across the country.  I currently have a student membership with this organisation and have done some short courses with them.
 
