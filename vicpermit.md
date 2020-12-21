@@ -5,6 +5,8 @@ description: "Contained below are some instructions on how to fill out the Vic b
 permalink: /vicpermit/
 ---
 
+## [Update as of Sun 12/12/2020: Vic and NSW border residents only need to show their driver's license or similar proof of ID, so no need to fill out a permit.
+
 From 11:59 P.M. on Fri, 18 Dec 2020, The Victorian Government [introduced a permit](https://www.coronavirus.vic.gov.au/victorian-border-crossing-permit) for any person who wishes to re-enter the Victorian border, including non-NSW residents.  If you live in the Red zone (Northern Beaches), you categorically cannot enter the border.  If you live in the orange or green zones (Green being inclusive of regional NSW, you must possess a permit.  If you live on the border of Vic and NSW as a Vic resident then you must fill out the form.
 
 Unfortunately, the form you have to fill out is not entirely accessible to screen reading technologies.  Contained below are some instructions on how to fill it out without sighted help - these have only been tested with Google Chrome on Windows 10 64-bit, v2004 with NVDA:
