@@ -24,7 +24,7 @@ email: "schmidty2244@gmail.com"
 description: This is Nathaniel Schmidt's GitHub pages site.  Contained here are links to software project repositories, as well as the blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://njsch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://njschmidt.id.au" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: njsch
 
@@ -47,6 +47,9 @@ header_pages:
   - about.md
   - contact.md
   - 1689lbc.md
+
+
+google_analytics: UA-NNNNNNNN-N
 
 # Exclude from processing.
 # The following items will not be processed, by default.
