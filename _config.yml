@@ -48,6 +48,8 @@ header_pages:
   - contact.md
   - 1689lbc.md
 
+show_excerpts: true
+
 environment: prod
 google_analytics: UA-NNNNNNNN-N
 
