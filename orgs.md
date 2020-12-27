@@ -2,7 +2,7 @@
 layout: page
 title: Organisations
 description: "Here on this page you can find my affiliations with (and memberships of) companies and organisations I belong to at various levels and for various reasons."
-permalink: /organisations/
+permalink: /orgs/
 ---
 
 Here on this page you can find my affiliations with (and memberships of) companies and organisations I belong to at various levels and for various reasons.
