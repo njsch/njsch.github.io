@@ -8,3 +8,6 @@ description: "The Home of Nathaniel Schmidt - my blog / Github-Pages website"
 ---
 
 Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.io) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.  Use the search box at the top of the page to find something more specific.
+
+## COVID-19 (Coronavirus) Related Info:
+If you are blind or Vision Impaired, live in (or are coming from) New South Wales into Victoria and are having trouble filling out the Victorian Border Entry Permit, then [click here](/vicpermit/).
