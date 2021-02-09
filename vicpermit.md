@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to fill out the Victorian Border Entry Permit Form If You Are Blind or Vision Impaired
-description: "Contained below are some instructions on how to fill out the Vic border entry form without sighted help - these have only been tested with Google Chrome on Windows 10 64-bit, v2004 with NVDA."
+description: "Contained below are some instructions on how to fill out the Victorian border entry form without sighted help - these have only been tested with Google Chrome on Windows 10 64-bit, v2004 with NVDA."
 permalink: /vicpermit/
 ---
 
