@@ -22,5 +22,3 @@ Currently, there are two main features of this site:
 * My blog: This is intended to be an expressive container of things that I hope others in various circles may find interesting.  Topics covered may include subjects as broad as disability, theology, politics, culture, ethics, software / coding endeavours, history, music, perhaps some very general posts about anything, references to other people's posts and ideas, etc.  This is a comment-free blog, partly because the blogging platform I use does not support such capability but also because there will be times where I will simply not have the time or energy to moderate public communication from the populous that is the internet.
 
 Well, that's about all for now.  I hope you enjoy your time here and consider it worth your while.
-
-<a href="https://feedburner.google.com/fb/a/mailverify?uri=nschmidt&amp;loc=en_US">Click here to subscribe to my blog by Email</a>
