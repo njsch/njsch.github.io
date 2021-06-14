@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: My Resumé
 description: ""
 permalink: /cv/
 ---

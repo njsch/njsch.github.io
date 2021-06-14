@@ -39,12 +39,13 @@ plugins:
   # Specific appearance and order of navigation links
 header_pages:
   - index.md
+  - about.md
   - repos.md
   - orgs.md
   - games.md
   - eduvis.md
   - portfolium.md
-  - about.md
+  - cv.md
   - contact.md
   - 1689lbc.md
 
