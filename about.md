@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "About Nathaniel Schmidt website, Blog and Repositories"
+description: "About Nathaniel Schmidt – website, Blog and Repositories"
 permalink: /about/
 ---
 
