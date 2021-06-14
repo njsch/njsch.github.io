@@ -8,7 +8,7 @@ permalink: /cv/
 Contained below is an unofficial &endash; but easily-accessible &endash; copy of my resum&eacute;, confidential stuff removed.  I have written it in markdown, so the HTML will not be properly-formatted.  For professional enquiries, [contact me](/contact/) to obtain an up-to-date copy, if it hasn't already been sent.
 
 ## Nathaniel Schmidt
-## Email: njschmidt@deakin.edu.au
+## Email: [njschmidt@deakin.edu.au](MAILTO:njschmidt@deakin.edu.au)
 ## LinkedIn: [https://www.linkedin.com/in/njsch/](https://www.linkedin.com/in/njsch/)
 ## GitHub: [https://github.com/njsch/](https://github.com/njsch/)
 
