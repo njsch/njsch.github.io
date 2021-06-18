@@ -32,7 +32,12 @@ Currently, as alluded to above, the VCAA approves for use in formal examinations
 
 It is my intention to examine all of these solutions, with the additional inclusion of the solution that I used for both Methods and Further Maths, namely the free, open-source and cross-platform [Maxima](http://maxima.sourceforge.net/) CAS software calculator, which has a very arguably similar syntactical and functional feel to Maple and takes up far less hard disk space compared to the other commercialised solutions.
 
-Access to the video(s) will be contained below, which will probably be licensed under a Creative Commons License.  It is hoped that they will be ready and published by February 2021.
+The videos and their associated transcripts have been partially completed thus far and are contained below.
+
+#### Videos:
+
+#### Transcript:
+Download as a [Microsoft Word document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.docx), an [HTML document (locally-viewable webpage)](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.htm) [PDF document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.pdf), or [Unicode plain text](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.txt).
 
 ## Existing External Research
 Below you can find resources containing research that has already been conducted directly concerning comparisons of ICT solutions and the impact upon VI students studying mathematics.
