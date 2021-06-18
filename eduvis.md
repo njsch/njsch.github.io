@@ -37,7 +37,7 @@ The videos and their associated transcripts have been partially completed thus f
 #### Videos:
 
 #### Transcript:
-Download as a [Microsoft Word document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.docx), an [HTML document (locally-viewable webpage)](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.htm), [PDF document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.pdf), or as a [Unicode plain text](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.txt).
+Download as a [Microsoft Word document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.docx), an [HTML document (locally-viewable webpage)](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.htm), [PDF document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.pdf), or as [Unicode plain text](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.txt).
 
 ## Existing External Research
 Below you can find resources containing research that has already been conducted directly concerning comparisons of ICT solutions and the impact upon VI students studying mathematics.
