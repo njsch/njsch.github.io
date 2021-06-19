@@ -34,9 +34,9 @@ It is my intention to examine all of these solutions, with the additional inclus
 
 The videos and their associated transcripts have been partially completed thus far and are contained below.
 
-#### Videos:
+### Videos:
 
-#### Transcript:
+### Transcript:
 Download as a [Microsoft Word document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.docx), an [HTML document (locally-viewable webpage)](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.htm), [PDF document](https://raw.githubusercontent.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/main/vce-cas-consids-opts_vid-transcript.pdf), or as [Unicode plain text](https://downgit.github.io/#/home?url=https://github.com/eduvis/vce-cas-consids-opts_vid-transcript-docs/blob/main/vce-cas-consids-opts_vid-transcript.txt).
 
 ## Existing External Research
