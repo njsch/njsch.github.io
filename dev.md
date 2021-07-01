@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software Development, Platforms and Activity
-description: ""
+title: Software Development (Platforms and Activity)
+description: "Below you can find links to online profiles showing my presence on certain software development communities and platforms, which point to development progress and discussions on various topics and projects."
 permalink: /dev/
 ---
 
@@ -16,7 +16,7 @@ My Github profile is where the vast majority of my visible activity occurs.  You
 <div class="github-profile-badge" data-user="njsch"></div>
 
 ## Other Platforms
-* [BitBucket]("https://bitbucket.org/njsch/)
-* [GitLab]("https://gitlab.com/njsch)
-* [Open-Source Developer Network (OSDN)]("https://osdn.net/users/njsch/).
-* [SourceForge]("https://sourceforge.net/u/njschmidt/)
+* [BitBucket](https://bitbucket.org/njsch/)
+* [GitLab](https://gitlab.com/njsch)
+* [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/)
+* [SourceForge](https://sourceforge.net/u/njschmidt/)
