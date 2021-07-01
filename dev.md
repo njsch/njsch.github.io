@@ -11,9 +11,8 @@ Note that this information also appears on the footer of every page, in case you
 
 ## GitHub
 My Github profile is where the vast majority of my visible activity occurs.  You can view it below:
-
-<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 <div class="github-profile-badge" data-user="njsch"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 
 ## Other Platforms
 * [BitBucket](https://bitbucket.org/njsch/)
