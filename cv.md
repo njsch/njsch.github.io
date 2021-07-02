@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Resume
+title: My Resumé
 description: "My cv / resume, for unofficial reference.  For professional enquiries, contact me to obtain an up-to-date version."
 permalink: /cv/
 ---
