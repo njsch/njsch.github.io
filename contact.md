@@ -17,6 +17,3 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 * [Contact me on Facebook](https://www.facebook.com/whatpictureisthat/)
 * [View my about.me page](https://about.me/njschmidt/).
 * [View my LinkTree](https://linktr.ee/njschmidt)
-
-## Alternatively, fill out the following form:
-{% include contact-form.html %}
