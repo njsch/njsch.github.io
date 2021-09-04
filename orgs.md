@@ -25,3 +25,6 @@ Eduvis is a not-for-profit organisation I have done some work for, seeking to pr
 Current Github organisation members: [Kyle Keane](https://github.com/kylekeane/), [Charlie Roberts](https://github.com/eduvis-charlie/) and [Nathaniel Schmidt](https://github.com/njsch/).
 Other collaborators: Brandon Combridge, [Brian Coogan](https://github.com/briancoogan/) and Izaak Van Ree.
 You can read further details of my work at [Contributions to Eduvis](/eduvis/).
+
+## Students as Partners
+Students as Partners is a Deakin University initiative, aiming to 
