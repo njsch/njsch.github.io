@@ -27,4 +27,7 @@ Other collaborators: Brandon Combridge, [Brian Coogan](https://github.com/brianc
 You can read further details of my work at [Contributions to Eduvis](/eduvis/).
 
 ## Students as Partners
-Students as Partners is a Deakin University initiative, aiming to 
+Students as Partners is a Deakin University initiative, aiming to break down some of the barriers of interactions between students and academics.
+
+### Students With Assistive Technology (SWAT)
+The SWAT team (mine and others' contributions to SAP) is a Deakin University initiative that endeavours to provide readily-available information, to both students and academics, on the necessary important considerations to be made concerning how to make uni resources and course material accessible to assistive technologies such as screen-readers.
