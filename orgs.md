@@ -13,9 +13,6 @@ Here on this page you can find my affiliations with (and memberships of) compani
 ## Australian Computer Society (ACS)
 The [ACS](https://www.acs.org.au/) is one of Australia's largest organisational bodies of IT professionals.  It approves many of the information technology, computer and data science courses that are studied across the country.  I currently have a student membership with this organisation and have done some short courses with them.
 
-## Blind Information Technology Specialists (BITS)
-[BITS](https://bits-acb.org/drupal77/) is an organisation deticated to the fostering of career development for blind / VI computer / IT professionals, as well as promoting the use of technology by blind persons to improve their personal and professional lives.  I currently have a student membership with this organisation.
-
 ## Deakin Launch Network (DLN)
 The [DLN](https://launchnetwork.deakin.edu.au/) is an organisation that fosters development of career and employment opportunities for people from disadvantaged or underprivileged situations, backgrounds and minority groups.  It creates material that promotes networking and other necessary skills for the workforce.  I have a student membership with this organisation.
 
