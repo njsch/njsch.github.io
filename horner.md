@@ -52,7 +52,7 @@ Your Bible is the only thing on Earth that, as you wear it out, will actually wo
 Please share this Bible-reading system with all the Christians you know, as well as anyone who is thinking about reading a Bible, even for the first time.
 Put these instructions in your Bible and review them from time to time.
 
-# The Ten Lists
+## The Ten Lists
 - There are different &lsquo;kinds&rsquo; of reading: super-quick skimming, careful moderate-paced, studying the text, deep meditation. You should be between the first and second kind.
 - Most people decrease their time spent and increase their retention after just two-three weeks! I now read and retain the entire text of Matthew in 35 minutes, Romans in 20, Genesis in one hour!
 - Don’t look up anything you ‘don’t get’ - real understanding will come through contextualizing by reading a LOT of scripture over time. Get through the text!
@@ -62,6 +62,7 @@ Put these instructions in your Bible and review them from time to time.
 - The goal of this system is simple, and twofold: To know scripture, and to love and obey God more!
 
 SOLI DEO GLORIA
+
 ## Secrets to Success
 - Read one chapter from each list each day; in one sitting or two. At the end of a book; go to the next book. At the end of the list; start it again. Do it in the order given above.
 - Read quickly (without “speed-reading”) in order to get the overall sense. Read as fast as you comfortably can with moderate retention. You’re not studying deeply or memorizing; shoot for 5-6 minutes per chapter. At the end of a chapter, move immediately to the next list.
@@ -69,7 +70,7 @@ SOLI DEO GLORIA
 
 Professor Grant Horner
 
-## The Ten Lists
+# The Ten Lists Re-hashed
 - List 1 (89 days): Matthew, Mark, Luke, John
 - List 2 (187 days): Genesis, Exodus, Leviticus, Numbers, Deuteronomy
 - List 3 (78 days): Romans, I&II Cor, Gal, Eph, Phil, Col, Hebrews
