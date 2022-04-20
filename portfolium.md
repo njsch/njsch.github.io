@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "My Portfolio on Portfolium"
 description: "Nathaniel Schmidt's portfolio on portfolium containing resume, projects and affiliations"
 ---
