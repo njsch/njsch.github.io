@@ -8,6 +8,3 @@ Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.
 
 ## Software Development
 Potentially, one of the main reasons why you have visited this site may be if you were hoping to find a container of software development activity regarding projects I have been, or am, involved in, whether as a project / organisation member or owner / maintainer.  As the main site navigation should hopefully have indicated to you, the pages of interest should be the ones directly concerning specific repositories (I have compiled a list [here](/repos/)); and more general references I have compiled, pointing to [external sources](/dev/), platforms containing my development activity and other various discussions on development of other projects.
-
-## COVID-19 (Coronavirus) Related Info:
-If you are blind or Vision Impaired, live in (or are coming from) New South Wales into Victoria and are having trouble filling out the Victorian Border Entry Permit, then [click here](/vicpermit/).
