@@ -5,7 +5,7 @@ description: "The Master's Seminary and Universityy's Professor Grant Horner's B
 permalink: /horner/
 ---
 
-By Prof. Grant Horner, Ph.D
+By [Prof. Grant Horner, Ph.D](https://www.masters.edu/faculty/grant-horner)
 
 Professor Grant Horner's unusual, challenging, and life-changing Bible-Reading System is unlike any other you have ever seen. Try it for ONE MONTH and find out for yourself ! You will never be the same.
 
