@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Software Development (Platforms and Activity)
-description: "Below you can find links to online profiles showing my presence on certain software development communities and platforms, which point to development progress and discussions on various topics and projects."
+description: "Below you can find links to online profiles showing my presence on certain software development communities and platforms, which point to development progress and discussions on various topics, projects and repositories."
 permalink: /dev/
 ---
 
 Below you can find links to online profiles showing my presence on certain software development communities and platforms, which point to development progress and discussions on various topics and projects.
-
-Note that this information also appears on the footer of every page, in case you have already seen it.
 
 ## GitHub
 My Github profile is where the vast majority of my visible activity occurs.  You can view it below:
@@ -19,3 +17,8 @@ My Github profile is where the vast majority of my visible activity occurs.  You
 * [GitLab](https://gitlab.com/njsch)
 * [Open-Source Developer Network (OSDN)](https://osdn.net/users/njsch/)
 * [SourceForge](https://sourceforge.net/u/njschmidt/)
+
+## Other Information
+I have also compiled a list of [software project repositories](/repos/) but which is by no means exhaustive.
+
+There is also a [list of games](/games/) that I have written.
