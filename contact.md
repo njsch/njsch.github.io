@@ -9,8 +9,8 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 
 * [Email me](MAILTO:schmidty2244@gmail.com)
 * Use LinkedIn:
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="njsch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/njsch?trk=profile-badge">Nathaniel Schmidt.</a></div>
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 * Follow my Github
     <div class="github-profile-badge" data-user="njsch"></div>
     <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
