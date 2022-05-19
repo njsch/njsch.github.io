@@ -29,4 +29,4 @@ The second London Baptist Confession of Faith is a document which was discussed,
 ### Professor Grant Horner's Bible Reading system
 This is a system I have enjoyed using and found helpful in segmented form. Find out more about how it works and why it is beneficial [here](/horner/).
 
-Pastor, author, blogger, thorough and prolific reviewer [Tim Challies](https://www.challies.com/brief-biography/) has also done a somewhat positive [review](https://www.challies.com/christian-living/ten-chapters-per-day/) and [follow-up reflection](https://www.challies.com/general-news/ten-chapters-per-day-follow-up/) of the system.
+Pastor, author, blogger, thorough and prolific reviewer [Tim Challies](https://www.challies.com/brief-biography/) has also done a somewhat positive [review](https://www.challies.com/christian-living/ten-chapters-per-day/) and [follow-up reflection](https://www.challies.com/general-news/ten-chapters-per-day-follow-up/) on the system.
