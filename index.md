@@ -15,9 +15,8 @@ Potentially, one of the main reasons why you have visited this site may be if yo
 [Click here to find out](/about/).
 
 ## Contact Me
-* LinkedIn
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="njsch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/njsch?trk=profile-badge">Nathaniel Schmidt.</a></div>
-* Github
-  <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
-  <div class="github-profile-badge" data-user="njsch"></div>
+### LinkedIn
+<a href="https://au.linkedin.com/in/njsch?trk=profile-badge">Nathaniel Schmidt.</a></div>
+
+### Github
+[njsch (Nathaniel Schmidt)](https://github.com/njsch)
