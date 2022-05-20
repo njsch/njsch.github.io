@@ -5,7 +5,7 @@ description: "the above statement is a Greek rendering, first in an English-lett
 permalink: /iamtheway/
 ---
 
-## What is this?
+## What is This?
 the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning &ldquo;I AM the way&rdquo;. It has a deep, rich theological meaning and history.
  
 The phrase &ldquo;Ego eimi&rdquo; (&ldquo;I AM&rdquo;) is the Greek version of a Hebrew title, sometimes attributed to a name that the Judeo-Christian God uses for Himself in the Old Testament/Hebrew Bible. It is the way that He introduced Himself, [by Moses, through Aaron](https://www.gotquestions.org/Moses-and-Aaron.html), to the Hebrew/Jewish community, prior to the Israelite nation being delivered by Him from slavery out of Egypt just under three-and-a-half thousand years ago ([Exodus 4:13-14](https://www.biblegateway.com/passage/?search=ex+3%3A13-14&version=CSB)).
@@ -30,3 +30,6 @@ The second London Baptist Confession of Faith is a document which was discussed,
 This is a system I have enjoyed using and found helpful in segmented form. Find out more about how it works and why it is beneficial [here](/horner/).
 
 Pastor, author, blogger, thorough and prolific reviewer [Tim Challies](https://www.challies.com/brief-biography/) has also done a somewhat positive [review](https://www.challies.com/christian-living/ten-chapters-per-day/) and [follow-up reflection](https://www.challies.com/general-news/ten-chapters-per-day-follow-up/) on the system.
+
+## References
+Original language textual output source: [BibleHub](https://biblehub.com/text/john/14-6.htm)
