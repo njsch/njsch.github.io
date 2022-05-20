@@ -32,4 +32,4 @@ This is a system I have enjoyed using and found helpful in segmented form. Find 
 Pastor, author, blogger, thorough and prolific reviewer [Tim Challies](https://www.challies.com/brief-biography/) has also done a somewhat positive [review](https://www.challies.com/christian-living/ten-chapters-per-day/) and [follow-up reflection](https://www.challies.com/general-news/ten-chapters-per-day-follow-up/) on the system.
 
 ## References
-Original language textual output source: [BibleHub](https://biblehub.com/text/john/14-6.htm)
+Original language textual output source: [BibleHub](https://biblehub.com/text/john/14-6.htm), retrieved on 19/05/2022.
