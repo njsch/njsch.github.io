@@ -16,7 +16,7 @@ Potentially, one of the main reasons why you have visited this site may be if yo
 
 ## Contact Me
 ### LinkedIn
-<a href="https://au.linkedin.com/in/njsch?trk=profile-badge">Nathaniel Schmidt.</a></div>
+<a href="https://au.linkedin.com/in/njsch?trk=profile-badge">Nathaniel Schmidt</a>
 
 ### Github
 [njsch (Nathaniel Schmidt)](https://github.com/njsch)
