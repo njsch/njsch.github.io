@@ -22,7 +22,7 @@ It is a title of sorts that has been used and abused in all kinds of places, by 
 It is also along these topical lines that some sources have been placed on this site which may be helpful to some.
 
 ## Confessional-theological Documents
-### The 2nd London Baptist Confession of Faith (2LBCF)h
+### The 2nd London Baptist Confession of Faith (2LBCF)
 The second London Baptist Confession of Faith is a document which was discussed, written and formulated in 1677 and then published when allowed in 1689 by Calvinistic Baptists in England, owing to situational relaxation of some religious freedom laws in England. It is a text in the big [[R]eformed](https://www.crossway.org/articles/10-things-you-should-know-about-reformed-theology-2/) tradition. A webpage copy can be found [here](/1689lbc/) and there are [various open-source copies of it](https://github.com/njsch/lbcf), accessible to screen readers, available on Github. Feel free to peruse at your own leisure.
 
 ## Bible Study Tools
