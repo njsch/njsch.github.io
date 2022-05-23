@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ego eimi he hodos (Ἐγώ εἰμι ἡ ὁδὸς)
-description: "the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning 'I AM the way'. It has a deep, rich theological menaing and history."
+description: "the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning “I AM the way”. It has a deep, rich theological menaing and history."
 permalink: /iamtheway/
 ---
 
