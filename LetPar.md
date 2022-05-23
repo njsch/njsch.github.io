@@ -2,7 +2,7 @@
 layout: page
 title: Letters to Parliament
 description: "Contained below are links to letters I have written to members of parliament concerning various economic and social political issues that are important to me. Feel free to use these as templates for your own letters if you find them helpful."
-permalink: /LetPar/
+permalink: /let-par/
 ---
 
 Contained below are links to letters I have written to members of parliament concerning various economic and social political issues that are important to me. Feel free to use these as templates for your own letters if you find them helpful.
