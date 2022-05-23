@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Ego eimi he hodos (Ἐγώ εἰμι ἡ ὁδὸς)
-description: "the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning &ldquo;I AM the way&rdquo;. It has a deep, rich theological menaing and history."
+description: "the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning "I AM the way". It has a deep, rich theological menaing and history."
 permalink: /iamtheway/
 ---
 
 ## What is This?
-the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning &ldquo;I AM the way&rdquo;. It has a deep, rich theological meaning and history.
+the above statement is a Greek rendering, first in an English-lettered transliteration and then parenthetically in Greek letters themselves, meaning &ldquo;I AM the Way&rdquo;. It has a deep, rich theological meaning and history.
  
 The phrase &ldquo;Ego eimi&rdquo; (&ldquo;I AM&rdquo;) is the Greek version of a Hebrew title, sometimes attributed to a name that the Judeo-Christian God uses for Himself in the Old Testament/Hebrew Bible. It is the way that He introduced Himself, [by Moses, through Aaron](https://www.gotquestions.org/Moses-and-Aaron.html), to the Hebrew/Jewish community, prior to the Israelite nation being delivered by Him from slavery out of Egypt just under three-and-a-half thousand years ago ([Exodus 4:13-14](https://www.biblegateway.com/passage/?search=ex+3%3A13-14&version=CSB)).
 
