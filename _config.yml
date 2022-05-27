@@ -43,8 +43,9 @@ header_pages:
   - index.md
   - about.md
   - dev.md
-  - contact.md
+  - LetPar.md
   - iamtheway.md
+  - contact.md
 
 show_excerpts: true
 
