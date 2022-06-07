@@ -15,6 +15,6 @@ I was unsure whether Nathaniel would have the support needed to successfully fol
 &ndash; Charlie Roberts, mathematics teacher and visiting teacher for students with vision impairment (VI)
 ![Image containing screenshot of above quote from a Facebook post by Charlie via a Facebook group for supporters of VI students studying maths.](/assets/images/testimonial_c-r.png)
 
-## ADCET Accessibility in Action award
+## ADCET Accessibility in Action Award
 In 2022, the Students With Assistive Technology (SWAT) wing of Deakin University's Students as Partners projects, of which I am a member, was nominated and became a winner of an Australian Disability Clearinghouse on Education and Training (ADCET) Accessibility in Action award. We were awarded for our work in Podcasting, user guide development and work with academics in maintaining and improving the accessibility of Deakin Uni learning sites.
 ![Award](/assets/images/testimonial_swat.svg)
