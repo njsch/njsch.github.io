@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400" width="400" height="400">
+  <style>
+@import url('https://fonts.googleapis.com/css?family=Caveat:700');</style>
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400" width="380" height="380" x="10" y="10">
+<path fill="#98ced8" d="M329.4,400H22.3c-6.4,0-11.5-5.1-11.5-11.5V59.8C10.8,26.8,37.7,0,70.7,0h307c6.4,0,11.5,5.1,11.5,11.5v328.6  C389.2,373.1,362.3,400,329.4,400z"/>
+<path fill="#003368" d="M70.7,23c-20.3,0-36.9,16.5-36.9,36.9V377h295.6c20.3,0,36.9-16.5,36.9-36.9V23H70.7z M67,64.8  c-4.6,0-8.3-3.7-8.3-8.3s3.7-8.3,8.3-8.3c4.6,0,8.3,3.7,8.3,8.3S71.6,64.8,67,64.8z M330.8,351.2c-4.6,0-8.3-3.7-8.3-8.3  c0-4.6,3.7-8.3,8.3-8.3c4.6,0,8.3,3.7,8.3,8.3C339.1,347.5,335.4,351.2,330.8,351.2z"/>
+</svg>
+  <foreignObject width="317" height="274" style="font-size: 45px;color: rgb(255, 255, 255);font-family: Caveat;font-weight: 700;text-align: center;letter-spacing: 0em;line-height: 1;" x="42" y="67">
+    <div xmlns="http://www.w3.org/1999/xhtml">Accessibility in<br/>Action Award<br/>Winner&#xA0;<br/>2022</div>
+  </foreignObject>
+  <image xlink:href="https://s3.us-east-1.amazonaws.com/accredible-api-templates/16529248981642558113250563036195.png" viewBox="0 0 1893 1074" width="169" height="96" x="116" y="262"/>
+</svg>
