@@ -3,7 +3,6 @@ layout: home
 title: "Home"
 description: "The Home of Nathaniel Schmidt - my Github-Pages site with blog, software projects and activity, affiliations, as well as some general info about some other things of personal interest."
 image: /assets/images/selfi.jpg
-
 ---
 
 Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.io) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.  Use the search box at the top of the page to find something more specific.
