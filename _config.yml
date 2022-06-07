@@ -42,8 +42,8 @@ plugins:
 header_pages:
   - index.md
   - about.md
-    - orgs.md
-    - testimonials.md
+  - orgs.md
+  - testimonials.md
   - dev.md
   - LetPar.md
   - iamtheway.md
