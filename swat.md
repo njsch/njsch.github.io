@@ -12,8 +12,8 @@ The [Students With Assistive Technology (SWAT)](http://swatspace.com/) team are 
 Currently, the domain name linked above doesn't point to any website. But you can use the email address <deakin[at]swatspace.com> (without the angle brackets) if you have any queries for the team.
 
 ## Compilation of SWAT Resources
-### General Info From Deakin University
-See blog posts from [Deakin Life](https://blogs.deakin.edu.au/deakinlife/2022/06/03/access-for-all-see-deakins-award-winning-initiatives-to-improve-digital-content/) and [DTeach Teaching and Learning Innovation Hub](https://dteach.deakin.edu.au/2022/05/deakin-wins-big-at-the-accessibility-in-action-awards/) for more information on SWAT and its objectives.
+### ADCET Award
+See blog posts from [Deakin Life](https://blogs.deakin.edu.au/deakinlife/2022/06/03/access-for-all-see-deakins-award-winning-initiatives-to-improve-digital-content/) and [DTeach Teaching and Learning Innovation Hub](https://dteach.deakin.edu.au/2022/05/deakin-wins-big-at-the-accessibility-in-action-awards/) for more information on SWAT and its objectives, which the team won an award for on 19 May 2022. The announcement on the actual ADCET website can be found [here](https://www.adcet.edu.au/resource/10938/congratulations-to-the-inaugural-accessibility-in-action-award-winners).
 
 ### Podcast
 Two of its members, Layla and Kia, have released a podcast called &ldquo;Let's Get Accessible&rdquo; which can be found [here](https://www.spreaker.com/show/lets-get-accessible). You can listen via the Spreaker app or with [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTU1NzExNS9lcGlzb2Rlcy9mZWVk) on your preferred smart home speaker or any other similar device of your choosing.
