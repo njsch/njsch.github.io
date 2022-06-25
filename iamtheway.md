@@ -19,7 +19,7 @@ It is interesting that when the earliest Christians started communicating and li
 
 It is a title of sorts that has been used and abused in all kinds of places, by all varieties of entities, individuals and collective bodies alike. It is actually the title of [quite a good discipleship course](https://thewaydiscipleship.com/about/) I just completed in a connect group at [the church I attend](https://gracechristiancommunity.org.au/about-us), contributed by [Murray Capill](https://rtc.edu.au/who-we-are/staff/dr-murray-capill/), [Peter Adam](https://stjudes.org.au/peteradam/), [Marty Ford](https://au.thegospelcoalition.org/profile/marty-foord/), [Murray Campbell](https://murraycampbell.net/about/) and others.
 
-It is also along these topical lines that some sources have been placed on this site which may be helpful to some.
+As the main author of this site and a Christian with a classical Protestant orientation, I have placed some sources on here which may be helpful to some. These are hobbiest activities that I have periodically worked on over time.
 
 ## Confessional-theological Documents
 ### The 2nd London Baptist Confession of Faith (2LBCF)
