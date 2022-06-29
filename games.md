@@ -12,4 +12,4 @@ Camel is a deliberately modified rendition of [an old MS-Dos game](https://sioux
 
 The game was ported to the BrailleNote mPower / Classic a couple of decades ago but is no longer maintained or supplied by the programmer who wrote it.  So I have re-written the program in Python, which also means that the game is now cross-platform and you can run it on Windows, Mac or Linux.
 
-Download, installation, game play instructions and development information can be found on the [project site](https://njschmidt.id.au/camel).
+Download, installation, game play instructions and development information can be found on the [project site](/camel/).
