@@ -28,8 +28,3 @@ Students as Partners is a Deakin University initiative, aiming to break down som
 
 ### Students With Assistive Technology (SWAT)
 The &lsquo;[SWAT team](/swat/)&rsquo; is a student-led initiative that has undertaken unit site testing, developed podcast interviews with other students with a disability, and advised and supported a range of students with assistive technology (AT) workarounds and knowledge. Their advocacy work is multifaceted and ranges from peer-to-peer interactions to making recommendations to university wide practices and procedures. As a Deakin Uni student user of AT resources, I am a member of this organisation.
-
-## WikiMedia
-[Wikimedia](https://www.wikimedia.org/) is a large not-for-profit software and educational foundation aiming to provide free and open-source content (especially educational material) for the world. They have many projects available, including but not limited to the well-known [Wikipedia](https://www.wikipedia.org/).
-
-See my contributions linked [here](/wikimedia/).
