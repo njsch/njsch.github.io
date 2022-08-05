@@ -23,6 +23,6 @@ There are a few features of this site you may be interested in:
 * Other sites: This website also hosts some other sites relevant to other projects (not necessarily directly affiliated with the projects themselves):
   * [Camel](/camel/)
   * [Latex-access](/latex-access.github.io/)
-* Letters to Parliament: while removing contact details and some other private information, I have started to release [letters](/letters-to-parliament/) regarding matters I think are worth giving attention to in various political and/or public spheres, in the hope that others might be able to use them to construct their own letters along similar lines.
+
 
 Well, that's about all for now. I hope you enjoy your time here and consider it worth your while.
