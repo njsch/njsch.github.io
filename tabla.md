@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tabla
-description: ""
+description: "Tabla is the name usually given to a set of two percussive musical instruments originating from the [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent). It can also be given to the Daya (right-hand drum) which is the smaller of the two in the set, the other being the dagga, or baya . On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts."
 permalink: /tabla/
 ---
 
