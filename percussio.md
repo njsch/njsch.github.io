@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Music (Drums and Percussion)
+title: Percussio
 description: "On this page, find info about my drum kit and Tabla playing learning endeavours and experiences."
-permalink: /percussion/
+permalink: /percussio/
 ---
+
+## Music (Drums and Percussion)
 ![A picture of my first drum kit](/assets/images/legend_kit.jpg)
 
 Music (especially rhythm and percussion) has often been a relatively big part of my life. Although my parents were and are not terribly musically inclined playing-wise, my sisters and I must have inherited some kind of gene somewhere, as both of them sing (one professionally), one plays guitar and one or both can play piano to an extent. When I was twelve-years-old, my parents bought me a [Legend](https://www.britishdrumco.com/legend-series) drum kit (pictured above) for my birthday &mdash; yes, I know, drummers will probably cringe at the thought &mdash; but it was a good start.
