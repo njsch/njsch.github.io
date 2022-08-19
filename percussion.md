@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Tabla
+title: Contributions to Music, Drums and Percussion
 description: "Tabla is the name usually given to a set of two percussive musical instruments originating from the [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent). It can also be given to the Daya (right-hand drum) which is the smaller of the two in the set, the other being the dagga, or baya . On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts."
-permalink: /tabla/
+permalink: /percussion/
 ---
 
+## Tabla
 [Tabla](https://www.melbournetablaschool.com/tabla.html) is the name usually given to a set of two percussive musical instruments originating from the [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent). It can also be given to the Daya (right-hand drum) which is the smaller of the two in the set, the other being the dagga, or baya . They are often played sitting cross-legged with the drums in front of the player and sitting on padded rings, allowing for more flexible movement for greater comfort and usability while playing. It can be featured in both classical (especially northern) Indian and Western styles of music and is usually tuned to the tonic note of the musical piece in question.
 
 My keen interest in this instrument was inspired by seeing [Pete Lockett](https://www.petelockett.info/ABOUT) play at [Frank Corniola](https://www.drumtek.com.au/frank-corniola/) and Drumtek's [Australia's 17th Ultimate Drummers Weekend](https://www.drummerstix.com.au/pdf/drumscene-oct09-audwroundup.pdf) in 2009 when I went with my dad. Pete is a world-renown percussionist who, among many other things, is possibly more known for composing and recording the percussion components of the soundtracks for five of the more recent James Bond films, most notably and substantially, [Quantum of Solace](https://www.imdb.com/title/tt0830515/). I suppressed my desire for knowledge and experience for a wile but in around March 2022, I started taking lessons with [Dr. Sam Evans, Ph.D](https://www.samevans.net.au/) at the [Melbourne Tabla School](https://www.melbournetablaschool.com/) who has an [Honorary Doctorate](https://www.samevans.net.au/masters.html) in classical tabla repertoire, as well as a [doctorate](https://www.samevans.net.au/phd.html) in Western contemporary integrations of Tabla. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
