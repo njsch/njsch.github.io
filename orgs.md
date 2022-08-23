@@ -10,9 +10,6 @@ Here on this page you can find my affiliations with (and memberships of) compani
 ## AuDA
 [Auda (AU Domain Administration)](https://www.auda.org.au/) is the organisation that defines the policies executed by domain name registrars, concerning Australian domains as identified by the `.au` domain name suffix.  I have an associate membership with this organisation.
 
-## Australian Computer Society (ACS)
-The [ACS](https://www.acs.org.au/) is one of Australia's largest organisational bodies of IT professionals.  It approves many of the information technology, computer and data science courses that are studied across the country.  I currently have a student membership with this organisation and have done some short courses with them.
-
 ## Deakin Launch Network (DLN)
 The [DLN](https://launchnetwork.deakin.edu.au/) is an organisation that fosters development of career and employment opportunities for people from disadvantaged or underprivileged situations, backgrounds and minority groups.  It creates material that promotes networking and other necessary skills for the workforce.  I have a student membership with this organisation.
 
