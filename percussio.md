@@ -18,7 +18,7 @@ In around 2012 or so, I purchased a [Pearl](https://pearldrum.com/) drum kit to 
 
 ## Tabla
 
-![A picture of me with my first Tabla set](/assets/images/pune_kakade_tabla_2022.jpeg)
+![A picture of me with my first Tabla set](/assets/images/2022_tabla_pune_kakade.jpeg)
 
 [Tabla](https://www.melbournetablaschool.com/tabla.html) is the name usually given to a set of two percussive musical instruments originating from the [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent). It can also be given to the daya (right-hand drum) which is the smaller of the two in the set, the other being the dagga, or baya . They are often played sitting cross-legged with the drums in front of the player and sitting on padded rings, allowing for more flexible movement for greater comfort and usability while playing. You can also swap the drums around if you are left-handed; however, the drums still have the same names with their different positions. The treble drum is usually tuned to the tonic note of the musical piece in question. Tabla can usually be found featuring in northern Indian [Hindustani classical music](http://ccrtindia.gov.in/hindustaniclassicalmusic.php) and sometimes (though less so often) in southern [Carnatic classical music](http://ccrtindia.gov.in/carnaticclassicalmusic.php). Tabla has also been increasingly introduced to various modern Western styles/genres of music.
 
