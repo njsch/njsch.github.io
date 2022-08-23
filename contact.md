@@ -9,9 +9,9 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 
 * [Email](MAILTO:schmidty2244@gmail.com) me
 * Use [LinkedIn](https://www.linkedin.com/in/njsch/)
+* Subscribe to my [Youtube](https://www.youtube.com/c/nathanieljschmidt)
 * Follow my [GitHub](https://github.com/njsch)
 * Contact me on [Facebook](https://www.facebook.com/whatpictureisthat/)
-* <a rel="me" href="https://mastodon.social/@njsch">Try out Mastodon</a>
 * View my [about.me](https://about.me/njschmidt/) page
 * View my [LinkTree](https://linktr.ee/njschmidt)
 * View me on [Medium](https://medium.com/@njsch)
