@@ -20,9 +20,9 @@ There are a few features of this site you may be interested in:
 * [Repositories](/repos/) and [affiliations](/orgs/): On this site I will list the primary repositories I am working (or have worked) on and the organisations I belong to. I will probably be mainly creating open-source projects. An open-source project is a program that basically has its code exposed to the world. People are allowed to examine the internal workings of how it operates, make modifications, re-distribute at their own leisure and sometimes you don't even have to give credit to the original developers (though I do this where possible). Open-source projects are clasified as &lsquo;free&rsquo;; that is, they are free, not just because you pay no fee but also because you are free to do (almost) whatever you want to the source code. See the [GNU General Public License, version 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) for more details.
 * My blog (accessed from the home page): This is intended to be an expressive container of things that I hope others in various circles may find interesting. Mainly it is a means of logging my development activity. This is a comment-free blog, partly because the blogging platform I use does not support such capability but also because there will be times where I will simply not have the time or energy to moderate public communication from that unpredictable populous of online entities that are present on the internet.
 * Acknowledgements: I have compiled a list of various [testimonials](/testimonials/) that others have given of me. In addition, I have written an overview of my [contributions to EduVis](/eduvis/).
+* [Percussion](/percussio/): a compilation of my endeavours and exploits in the area of rhythm and percussion, especially drumming.
 * Other sites: This website also hosts some other sites relevant to other projects (not necessarily directly affiliated with the projects themselves):
   * [Camel](/camel/)
   * [Latex-access](/latex-access.github.io/)
 
-
-Well, that's about all for now. I hope you enjoy your time here and consider it worth your while.
+Well, that's about all for now. I hope you enjoy your time here.
