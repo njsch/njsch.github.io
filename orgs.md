@@ -10,6 +10,11 @@ Here on this page you can find my affiliations with (and memberships of) compani
 ## AuDA
 [Auda (AU Domain Administration)](https://www.auda.org.au/) is the organisation that defines the policies executed by domain name registrars, concerning Australian domains as identified by the `.au` domain name suffix.  I have an associate membership with this organisation.
 
+## Can-Do Musos
+[Can-Do Musos](https://candomusos.com/about-us.php) is an organisation seeking to foster and support students with disabilities in their efforts as musicians, endeavouring to challenge existing perceptions about what people can do in their various unique situations. It was founded in 2013 by [Dom Famularo](https://www.domfamularo.com/), [Andrew Hewitt](https://www.drummerstix.com.au/) and others.
+
+I am a part of this organisation's [global family](https://candomusos.com/profile-nathaniel-schmidt.php).
+
 ## Deakin Launch Network (DLN)
 The [DLN](https://launchnetwork.deakin.edu.au/) is an organisation that fosters development of career and employment opportunities for people from disadvantaged or underprivileged situations, backgrounds and minority groups.  It creates material that promotes networking and other necessary skills for the workforce.  I have a student membership with this organisation.
 
