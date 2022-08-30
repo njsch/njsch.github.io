@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Percussio
-description: "On this page, find info about my drum kit and Tabla playing learning endeavours and experiences."
+description: "On this page, find info about my musical (mainly percussion) drum kit and Tabla playing/learning endeavours and experiences."
 permalink: /percussio/
 ---
 
