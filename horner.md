@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Professor Grant Horner's Bible Reading System
-description: "The Master's Seminary and Universityy's Professor Grant Horner's Bible reading system. study in lists."
+title: Professor Grant Horner's Ten-List Bible-reading System
+description: "The Master's Seminary and University's Professor Grant Horner's Bible reading system. study in lists."
 permalink: /horner/
 ---
+
+## Personal Note
+This is a system I have enjoyed using and found helpful in segmented form. Find out more about how it works and why it is beneficial [here](/horner/).
+
+Pastor, author, blogger, thorough and prolific reviewer [Tim Challies](https://www.challies.com/brief-biography/) has also done a somewhat positive [review](https://www.challies.com/christian-living/ten-chapters-per-day/) and [follow-up reflection](https://www.challies.com/general-news/ten-chapters-per-day-follow-up/) on the system.
+
+## Original introduction
 
 By [Prof. Grant Horner, Ph.D](https://www.masters.edu/faculty/grant-horner)
 

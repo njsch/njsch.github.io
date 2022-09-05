@@ -46,7 +46,8 @@ header_pages:
   - testimonials.md
   - dev.md
   - percussio.md
-  - iamtheway.md
+  - horner.md
+  - 1689lbc.md
   - contact.md
 
 show_excerpts: true
