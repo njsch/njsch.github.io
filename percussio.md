@@ -32,4 +32,46 @@ Then in around March 2022, I started taking lessons with Sam Evans, Ph.D at the 
 
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe).
 
-On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way, especially about where and how to purchase the drums, as new students tend to sometimes make presumptuous mistakes, spending a lot of money and regretting it for a while. Projects may also be found on [Youtube](https://www.youtube.com/c/nathanieljschmidt).
+On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way regarding sourceing, purchasing and accessible ways of playing the drums, as the internet is often a highly unreliable source of information for this; and it is rare if not unlikely that a totally blind person has done this before.
+
+Projects may also be found on [Youtube](https://www.youtube.com/c/nathanieljschmidt).
+
+### Practicing and Discipline
+There are a number of ways to practice at home, even in hypothetical jamming or performance contexts. One of the main more helpful ways these days is to use phone apps. But one of the problems that often presents itself for a vision impaired third-party app end-user, is that you often cannot know whether an app is necessarily going to be sufficiently accessible or navigable for satisfactory use, unless you trial them first. Sometimes this can result in some moderately expensive endeavours which do not always pay off (no pun intended) if you find that you can't use the app. I've learnt this the hard way in the past, but have also found that it saves you a lot of trouble if, mainly by searching the internet, you can find a precedent &mdash; good or bad &mdash; from someone else who has gone before you.
+
+When it comes to play-along apps, there is one called [Nagma Live](https://nagmalive.com/) which is the only free solution I know of. But you have to pay to unlock most of the instruments and I'm not sure about extra ragas or recorded players. And the interface is reputed to be very clunky and not intuitive, even for sighted users. The app does not use conventional buttons, menus or sliders, so it is a nightmare for a VoiceOver user running iOS.
+
+Another alternative is [Prasad Upasani](http://upasani.org/home/About_Me.html)'s [iLehra](http://upasani.org/home/ilehra.html). It costs about $30AUD. There is a relatively thorough and positive review of this app on the [AppleVis website](https://www.applevis.com/podcasts/exploring-ilehra-lehra-nagma-player-ios-provides-accompaniment-tabla-solos).
+
+I wish I had known about this app much earlier than when I actually found out about it. It has been around for a number of years, so it has a fairly extensive repertoire of taals. But it is only available on the Apple [App Store](https://apps.apple.com/us/app/ilehra-lehra-nagma-player/id333183750) which leaves out Google Android users. Furthermore, it does not have a sitar to play along to which may or may not make things a little more difficult if you are a beginner, although a santoor may not necessarily be too difficult to play along to.
+
+A third option is [Aman Kalyan](https://www.linkedin.com/in/aman-kalyan-33061b11a/) of [Kalyan Studio Apps](https://kalyanstudioapps.com)' [Lehra Studio](http://lehrastudio.com/) series. These are a little more pricy, but that's probably what you get in value for high-quality original instrument recordings, taals and ragas. The apps are also cross-platform and work on both iOS which you can obtain via the [App Store](https://apps.apple.com/au/developer/aman-kalyan/id966821443) and Android devices via [Google Play](https://play.google.com/store/apps/developer?id=Aman+Kalyan). The developer is himself a Tabla player from Melbourne and either certainly known to (or maybe even a former student of) my Tabla teacher.
+
+Each app edition in this series is similar but comes with more extensive selections of instruments and talas. The most basic of these is probably Lehra studio itself (I've never touched this one). The one my tabla teacher uses and recommends is [Lehra Studio Pro](https://apps.apple.com/us/app/lehra-studio-pro/id966821444). This allows for playing along with a sitar or harmonium, in addition to the sarangi and santoor in the original app. The one I use is [Lehra Studio Ultimate](https://apps.apple.com/au/app/lehra-studio-ultimate/id1217673000), an app which lets you play along to a Bansuri (Indian flute) among others; but unfortunately, it has not carried over the sanroor. Lehra Studio Pro costs about $57AUD and Studio Ultimate is about $77AUD.
+
+The graphical interface of studio ultimate is relatively basic; however, most if not all the buttons are not labeled properly which is rather annoying and slows down app usage a lot. If you get someone to talk you through the interface, though, it can be a really easy-to-use app and quite productive for disciplined practice. Once the buttons are manually labeled properly using VoiceOver, it gets even easier.
+
+The really good thing about Lehra Studio is that it is both simple and useful. I think the flute also sounds better and more realistic than iLehra in Studio Ultimate but that could be just personal-preferential bias.
+
+The layout of Studio Ultimate is of a tabular style, which does not work too well with VoiceOver's flat review cursor style; and the grouped cursor makes no difference. A description of the graphical item layout, from left-to-right, is as follows:
+* A menu button on the very left, which contains the following menu items:
+   * About button for app version info
+   * Credits for contributors
+   * Purchase button for purchasing the app
+* Decrease pitch button
+* Increase pitch button
+* An indicator of the current finely-tuned key e.g. &ldquo;D&rdquo; or &ldquo;C#&rdquo;
+* An indication of how many hurtz the pitch is
+* After two more unknown items, a slider for the pitch
+* After another unknown item, the name of the app section just discussed, namely the &ldquo;TUNER&rdquo;.
+* Decrease tempo button
+* Tempo adjustment slider
+* Increase tempo button
+* The app section indicator, namely BPM
+* The number of beats per minute i.e. 180
+* Tap Tempo button which does not appear to do much.
+* Next three items appear to be for matra: the number, another BPM text item and the matra screen item
+* Next three buttons are selectors for desired instrument, taal and raga. The dimned/technically unavailable text fields say what instrument it is i.e. sitar, bansuri, etc, or what taal or raga you have selected. If you double-tap the buttons, a list of items to select from will appear which you can access by gently dragging your finger (especially if you have 3-D touch enabled) or tapping near the bottom half or maybe even third of the screen. You can also double-tap and hold the dimned text fields for the same menu/list to appear.
+
+In conclusion, interchangeably using Lehra Studio Ultimate and iLehra is a nice combination. They both have their strengths and weaknesses. I think Lehra Studio is nice if you want better quality recorded instrumental music taals.
+* The next three sliders and accompanying text fields allow for adjustment of the selected lehra in question, the tampura and metronome respectively.
