@@ -72,6 +72,6 @@ The layout of Studio Ultimate is of a tabular style, which does not work too wel
 * Tap Tempo button which does not appear to do much.
 * Next three items appear to be for matra: the number, another BPM text item and the matra screen item
 * Next three buttons are selectors for desired instrument, taal and raga. The dimned/technically unavailable text fields say what instrument it is i.e. sitar, bansuri, etc, or what taal or raga you have selected. If you double-tap the buttons, a list of items to select from will appear which you can access by gently dragging your finger (especially if you have 3-D touch enabled) or tapping near the bottom half or maybe even third of the screen. You can also double-tap and hold the dimned text fields for the same menu/list to appear.
+* The next three sliders and accompanying text fields allow for adjustment of the selected lehra in question, the tampura and metronome respectively.
 
 In conclusion, interchangeably using Lehra Studio Ultimate and iLehra is a nice combination. They both have their strengths and weaknesses. I think Lehra Studio is nice if you want better quality recorded instrumental music taals.
-* The next three sliders and accompanying text fields allow for adjustment of the selected lehra in question, the tampura and metronome respectively.
