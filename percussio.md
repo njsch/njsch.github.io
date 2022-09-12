@@ -5,7 +5,12 @@ description: "On this page, find info about my musical (mainly percussion) drum 
 permalink: /percussio/
 ---
 
+Percussio is simply a [Latin word](https://en.wiktionary.org/wiki/percussio#Latin) that is one of the several roots from which the English word percussio is derived. On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way regarding sourceing, purchasing and accessible ways of playing the drums, as the internet is often a highly unreliable source of information for this; and it is rare if not unlikely that a totally blind person has done this before.
+
+Projects may also be found on [Youtube](https://www.youtube.com/c/nathanieljschmidt).
+
 ## Music (Drums and Percussion)
+
 ![A picture of my first drum kit](/assets/images/legend_kit.jpg)
 
 Music (especially rhythm and percussion) has often been a relatively big part of my life. Although my parents were and are not terribly musically inclined playing-wise, my sisters and I must have inherited some kind of gene somewhere, as both of them sing (one professionally), one plays guitar and one or both can play piano to an extent. When I was twelve-years-old, my parents bought me a [Legend](https://www.britishdrumco.com/legend-series) drum kit (pictured above) for my birthday &mdash; yes, I know, drummers will probably cringe at the thought &mdash; but it was a good start. You can watch one of my family's laid-back parody musical endeavours below:
@@ -31,10 +36,6 @@ My keen interest in this instrument was inspired by seeing [Pete Lockett](https:
 Then in around March 2022, I started taking lessons with Sam Evans, Ph.D at the [Melbourne Tabla School](https://www.melbournetablaschool.com/), who is a senior student of [Panditb Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee), has a [Masters degree](https://www.samevans.net.au/masters.html) in traditional Tabla repertoire, as well as a [doctorate](https://www.samevans.net.au/phd.html) in contemporary Tabla performance. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
 
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe).
-
-On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way regarding sourceing, purchasing and accessible ways of playing the drums, as the internet is often a highly unreliable source of information for this; and it is rare if not unlikely that a totally blind person has done this before.
-
-Projects may also be found on [Youtube](https://www.youtube.com/c/nathanieljschmidt).
 
 ### Practicing and Discipline
 There are a number of ways to practice at home, even in hypothetical jamming or performance contexts. One of the main more helpful ways these days is to use phone apps. But one of the problems that often presents itself for a vision impaired third-party app end-user, is that you often cannot know whether an app is necessarily going to be sufficiently accessible or navigable for satisfactory use, unless you trial them first. Sometimes this can result in some moderately expensive endeavours which do not always pay off (no pun intended) if you find that you can't use the app. I've learnt this the hard way in the past, but have also found that it saves you a lot of trouble if, mainly by searching the internet, you can find a precedent &mdash; good or bad &mdash; from someone else who has gone before you.
