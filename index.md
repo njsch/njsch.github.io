@@ -8,15 +8,18 @@ description: "The Home of Nathaniel Schmidt - my Github-Pages site with blog, so
 
 Welcome to the homepage of my [GitHub](http://github.com) [Pages](http://github.io) website.  Feel free to use the above links to explore the various sections of this site, or brows the blog posts contained below.  Use the search box at the top of the page to find something more specific.
 
-## Software Development
-Potentially, one of the main reasons why you have visited this site may be if you were hoping to find a container of software development activity regarding projects I have been, or am, involved in, whether as a project / organisation contributor, member or owner / maintainer/collaborator.  As the main site navigation should hopefully have indicated to you, the pages of interest should be the ones directly concerning specific repositories (I have compiled a list [here](/repos/)); and more general references I have compiled, pointing to [external sources](/dev/) (platforms containing my development activity and other various discussions on development of other projects).
-
 ## Musical (drumming and percussion) exploits:
 I have a [dedicated page](/percussio/) for this.
 
 ## About Me
 [Click here to find out](/about/).
 
+## Software Development
+View collation of [repositories](/repos/) and [existing development projects, platforms and activity](/dev/).
+
 ## Other Sites on This Domain:
 * [Camel](/camel/)
 * [Latex-access](/latex-access.github.io/)
+
+## Blog
+See below:
