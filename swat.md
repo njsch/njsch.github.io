@@ -9,7 +9,7 @@ permalink: /swat/
 The [Students With Assistive Technology (SWAT)](http://swatspace.com/) team are a a wing of Deakin University's Students as Partners projects and peer support network. It is a student-led initiative that has undertaken unit site testing, developed podcast interviews with other students with a disability, and advised and supported a range of students with assistive technology (AT) workarounds and knowledge. They are mainly an advocacy organisation and their work is multifaceted and ranges from peer-to-peer interactions to making recommendations to university wide practices and procedures.
 
 ## Contact SWAT
-Currently, the domain name linked above doesn't point to any website. But you can use the email address <deakin[at]swatspace.com> (without the angle brackets) if you have any queries for the team.
+You can use the email address <deakin[at]swatspace.com> (without the angle brackets) if you have any queries for the team.
 
 ## Compilation of SWAT Resources
 ### ADCET Award
