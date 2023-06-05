@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Contact
 description: "Nathaniel Schmidt contact information. Use email, LinkedIn or Facebook"
@@ -11,7 +11,7 @@ If you would like to reach me for whatever reason, you can do so by the folowing
 * Use [LinkedIn](https://www.linkedin.com/in/njsch/)
 * Subscribe to my [Youtube](https://www.youtube.com/c/nathanieljschmidt)
 * Follow my [GitHub](https://github.com/njsch)
-* Contact me on [Facebook](https://www.facebook.com/whatpictureisthat/)
+* Contact me on [Facebook](https://www.facebook.com/njsch7/)
 * View my [about.me](https://about.me/njschmidt/) page
 * View my [LinkTree](https://linktr.ee/njschmidt)
 * View me on [Medium](https://medium.com/@njsch)
