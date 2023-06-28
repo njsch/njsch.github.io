@@ -45,7 +45,15 @@ In hindsight, it ended up being about eight months before I ended up playing in 
 Obviously, this was an ultra-beginner piece containing a [theka](https://digitabla.com/reference/compositional-forms/theka/) (accompaniment piece), and three solo pieces (either a [kaida](https://digitabla.com/reference/compositional-forms/kayda/#:~:text=Kāyadā%20–%20कायदा,rule%3B%20system%20of%20rules%3B%20method) and two [tukra](https://digitabla.com/reference/compositional-forms/tukra/#:~:text=Quick%20Definition%3A%20A%20cadential%20composition,Meaning%3A%20piece%3B%20fragment%3B%20bit)s, or a kaida, a tukra and a [paran](https://www.tablalegacy.com/paran#:~:text=Connecting%20to%20the%20Sanskrit%20word,into%20veins%20on%20both%20sides.) &mdash; I can't remember which of the ultimately excluded pieces was a tukra or paran). You can view a much more involved piece, performed in [Jhaptal](https://www.taalgyan.com/taals/jhaptaal/) (an eastern equivalent of a tenth-note time-signature in western notation), here to see what tabla is really capable of:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhkWOaCK7XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Practicing and Discipline
+### Tabla Resources
+Contained below are some resources I have compiled or provided for playing and composition from an accessibility standpoint.
+
+#### External Links and Websites
+* [The school I learn at has a collated list of some good resources for both self-teaching and with others including research-based theory, curated music playlists and general tabla repertoire info](https://www.melbournetablaschool.com/tabla-resources.html)
+* [DigiTabla is an excellent resource for learning tabla concepts in theory and sometimes practice.](https://digitabla.com)
+*
+
+#### Practicing and Discipline
 There are a number of ways to practice at home, even in hypothetical jamming or performance contexts. One of the main more helpful ways these days is to use phone apps. But one of the problems that often presents itself for a vision impaired third-party app end-user, is that you often cannot know whether an app is necessarily going to be sufficiently accessible or navigable for satisfactory use, unless you trial them first. Sometimes this can result in some moderately expensive endeavours which do not always pay off (no pun intended) if you find that you can't use the app. I've learnt this the hard way in the past, but have also found that it saves you a lot of trouble if, mainly by searching the internet, you can find a precedent &mdash; good or bad &mdash; from someone else who has gone before you.
 
 When it comes to play-along apps, there is one called [Nagma Live](https://nagmalive.com/) which is the only free solution I know of. But you have to pay to unlock most of the instruments and I'm not sure about extra ragas or recorded players. And the interface is reputed to be very clunky and not intuitive, even for sighted users. The app does not use conventional buttons, menus or sliders, so it is a nightmare for a VoiceOver user running iOS.
