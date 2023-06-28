@@ -51,7 +51,6 @@ Contained below are some resources I have compiled or provided for playing and c
 #### External Links and Websites
 * [The school I learn at has a collated list of some good resources for both self-teaching and with others including research-based theory, curated music playlists and general tabla repertoire info](https://www.melbournetablaschool.com/tabla-resources.html)
 * [DigiTabla is an excellent resource for learning tabla concepts in theory and sometimes practice.](https://digitabla.com)
-*
 
 #### Practicing and Discipline
 There are a number of ways to practice at home, even in hypothetical jamming or performance contexts. One of the main more helpful ways these days is to use phone apps. But one of the problems that often presents itself for a vision impaired third-party app end-user, is that you often cannot know whether an app is necessarily going to be sufficiently accessible or navigable for satisfactory use, unless you trial them first. Sometimes this can result in some moderately expensive endeavours which do not always pay off (no pun intended) if you find that you can't use the app. I've learnt this the hard way in the past, but have also found that it saves you a lot of trouble if, mainly by searching the internet, you can find a precedent &mdash; good or bad &mdash; from someone else who has gone before you.
