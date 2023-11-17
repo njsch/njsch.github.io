@@ -27,7 +27,7 @@ The [DLN](https://launchnetwork.deakin.edu.au/) is an organisation that fosters 
 ## Eduvis
 Eduvis is a not-for-profit organisation I have done some work for, seeking to provide material resources and practical strategies for students with a vision impairment who want to take up further study in mathematics and physical education at higher levels of secondary education; and potentially on to tertiary study.  Its website can be found [here](http://eduvis.com.au/) and the organisation's GitHub presence, of which I am a co-owner, can be found [here](https://github.com/eduvis/).
 
-Current Github organisation members: [Kyle Keane](https://github.com/kylekeane/), [Charlie Roberts](https://github.com/eduvis-charlie/) and [Nathaniel Schmidt](https://github.com/njsch/) and [Gavin Douch](https://github.com/Coedice).
+Current Github organisation members: [Gavin Douch](https://github.com/Coedice) [Kyle Keane](https://github.com/kylekeane/), [Charlie Roberts](https://github.com/eduvis-charlie/) and [Nathaniel Schmidt](https://github.com/njsch/).
 Other collaborators: Brandon Combridge, [Brian Coogan](https://github.com/briancoogan/) and Izaak Van Ree.
 You can read further details of my work at [Contributions to Eduvis](/eduvis/).
 
