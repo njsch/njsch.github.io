@@ -1,46 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Nathaniel Schmidt
 name: Nathaniel Schmidt
+author: Nathaniel Schmidt
 email: "schmidty2244@gmail.com"
-description: This is Nathaniel Schmidt's GitHub pages site.  Contained here are links to software project repositories, as well as the blog.
+description: Nathaniel Schmidt Github Pages personal site: software project repositories,  blog and percussionist musical endeavours.
 
-domain: "njschmidt.id.au"
-# url: "https://njsch.github.io"
-# baseurl: "/njsch/" # the subpath of your site, e.g. /blog
-url: "https://njschmidt.id.au" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+url: "https://njschmidt.id.au"
+google_analytics: G-CEDD9NZJKK
 github_username: njsch
 
+# SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
-  
+  - jekyll-remote-theme
   # Specific appearance and order of navigation links
-header_pages:
-  - index.md
+nav:
+  - title: Home
+    url: "/"
   - about.md
   - orgs.md
   - testimonials.md
@@ -53,7 +37,6 @@ header_pages:
 show_excerpts: true
 
 environment: prod
-google_analytics: UA-NNNNNNNN-N
 
 # Exclude from processing.
 # The following items will not be processed, by default.
