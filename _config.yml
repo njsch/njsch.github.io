@@ -1,8 +1,10 @@
+timezone: Australia/Melbourne
 title: Nathaniel Schmidt
 name: Nathaniel Schmidt
 author: Nathaniel Schmidt
+tagline: personal site
 email: "schmidty2244@gmail.com"
-description: Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
+description: -> Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
 
 url: "https://njschmidt.id.au"
 google_analytics: G-CEDD9NZJKK
@@ -21,7 +23,18 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-remote-theme
-  # Specific appearance and order of navigation links
+social:
+  name: Nathaniel Schmidt
+  links:
+    - https://www.linkedin.com/in/njsch/
+    - https://github.com/njsch
+    - http://njschmidt.id.au
+    - https://www.youtube.com/@njsch
+    - https://www.facebook.com/njsch7
+
+locale: en-AU
+
+# Specific appearance and order of navigation links
 nav:
   - title: Home
     url: "/"
