@@ -2,7 +2,7 @@ timezone: Australia/Melbourne
 title: Nathaniel Schmidt
 tagline: personal site
 email: "schmidty2244@gmail.com"
-description: >- Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
+description: Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
 
 url: "https://njschmidt.id.au"
 google_analytics:
@@ -15,6 +15,7 @@ sass:
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
