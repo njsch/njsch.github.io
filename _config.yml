@@ -1,7 +1,5 @@
 timezone: Australia/Melbourne
 title: Nathaniel Schmidt
-name: Nathaniel Schmidt
-author: Nathaniel Schmidt
 tagline: personal site
 email: "schmidty2244@gmail.com"
 description: -> Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
@@ -31,8 +29,9 @@ social:
     - http://njschmidt.id.au
     - https://www.youtube.com/@njsch
     - https://www.facebook.com/njsch7
+    - https://feeds.feedburner.com/nschmidt/
 
-locale: en-AU
+lang: en-AU
 
 # Specific appearance and order of navigation links
 nav:
@@ -54,7 +53,7 @@ nav:
     url: "/1689lbc.html"
   - title: Contact
     url: "/contact"
-  - contact.md
+  
 
 show_excerpts: true
 
