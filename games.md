@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Games
 description: "Contained below are games (mainly text and audio) I have written, primarily orientated towards the blind or vision impaired player.  Contact me if you have trouble obtaining them, or have any bug reports or feature suggestions."
 permalink: /games/

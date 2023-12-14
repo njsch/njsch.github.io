@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Professor Grant Horner's Ten-List Bible-reading System
 description: "The Master's Seminary and University's Professor Grant Horner's Bible reading system. study in lists."
 permalink: /horner/

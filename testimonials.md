@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Testimonials
 description: "Here you can find references and testimonies concerning my work and character."
 permalink: /testimonials/

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Adjusting to Arduino (Orientation and Rotation) -- Resources for the Blind and Vision Impaired"
 date:   2020-09-01 18:11:00 +1100
 categories: CompSci Technology Hardware Firmware Arduino UNO.

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: The 1689 (2nd) London Baptist Confession of Faith (2LBCF)
 description: "The 1689 (2nd) London Baptist Confession of Faith (2LBCF)"
 permalink: /2lbcf/

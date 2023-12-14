@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New Forked Software Project Repository -- Liblouis"
 date:   2020-10-29 17:44:00 +1100
 categories: CompSci GitHub Technology Software API repo repository.

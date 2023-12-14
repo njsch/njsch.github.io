@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Heading to Uni -- My First Post"
 date:   2021-03-09 21:43:00 +1100
 categories: blog post general life theology uni university education Christianity AFES.

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About
 description: "About Nathaniel Schmidt – website, Blog, Repositories and percussion/drumming musical endeavours"
 permalink: /about/

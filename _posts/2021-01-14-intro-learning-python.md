@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Introducing 'Learning Python', A New and Progressing Set of Workshops and Wikis to Teach Python in an Accessible Setting"
 date:   2021-01-14 15:35:00 +1100
 categories: CompSci Technology Software Python.

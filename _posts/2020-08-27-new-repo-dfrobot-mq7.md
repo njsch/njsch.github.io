@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New Working Project Repository -- DFRobot_MQ7_CO_data_logging"
 date:   2020-08-27 22:50:00 +1100
 categories: CompSci GitHub Technology Hardware Firmware Arduino UNO UNOr3 Microcontroller DFRobot.

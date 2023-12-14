@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Tech Review / Constructive Feedback -- Focus (40) Blue, 5th Gen."
 date:   2020-07-01 20:32:00 +1100
 categories: Hardware Firmware Technology Focus Braille RBD Review.

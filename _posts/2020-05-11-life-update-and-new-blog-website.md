@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Life and Site Update; New Website / Blog (New Sub-Domain URL for Blog); Past Email Subscriptions no Longer Valid"
 date:   2020-05-11 20:08:53 +1100
 categories: General Update Study ComSci Deakin GitHub GitHubPages.

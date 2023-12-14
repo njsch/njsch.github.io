@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Software Development (Platforms and Activity)
 description: "Below you can find links to online profiles showing my presence on certain software development communities and platforms, which point to development progress and discussions on various topics, projects and repositories."
 permalink: /dev/

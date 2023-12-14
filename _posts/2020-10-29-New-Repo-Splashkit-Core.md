@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New-ish Forked Project Repository -- splashkit-core"
 date:   2020-10-29 14:04:00 +1100
 categories: CompSci GitHub Technology Software SDK repo repository.

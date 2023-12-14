@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Contributions to Students With Assistive Technology (SWAT)
 description: "The Students With Assistive Technology (SWAT) team is a student-led initiative that has mainly an disability advocacy objective and strategy orientation. Their work is multifaceted and ranges from peer-to-peer interactions to making recommendations to university wide practices and procedures. It/they are a wing of Deakin University's Students as Partners projects and peer support network."
 permalink: /swat/

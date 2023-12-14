@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Contact
 description: "Nathaniel Schmidt contact information. Use email, LinkedIn or Facebook"
 permalink: /contact/
