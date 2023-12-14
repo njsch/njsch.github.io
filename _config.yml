@@ -28,7 +28,7 @@ plugins:
   - jekyll-remote-theme
 
 # Specific appearance and order of navigation links
-nav:
+header_pages:
   - index.md
   - about.md
   - orgs.md
