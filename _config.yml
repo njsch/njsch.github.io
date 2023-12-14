@@ -27,16 +27,6 @@ plugins:
   - jekyll-archives
   - jekyll-remote-theme
 
-social:
-  name: Nathaniel Schmidt
-  links:
-    - https://www.linkedin.com/in/njsch/
-    - https://github.com/njsch
-    - http://njschmidt.id.au
-    - https://www.youtube.com/@njsch
-    - https://www.facebook.com/njsch7
-    - https://feeds.feedburner.com/nschmidt/
-
 # Specific appearance and order of navigation links
 nav:
   - index.md
@@ -70,3 +60,13 @@ environment: prod
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+social:
+  name: Nathaniel Schmidt
+  links:
+    - https://www.linkedin.com/in/njsch/
+    - https://github.com/njsch
+    - http://njschmidt.id.au
+    - https://www.youtube.com/@njsch
+    - https://www.facebook.com/njsch7
+    - https://feeds.feedburner.com/nschmidt/
