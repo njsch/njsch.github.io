@@ -1,4 +1,5 @@
 timezone: Australia/Melbourne
+lang: en-AU
 title: Nathaniel Schmidt
 tagline: personal site
 email: "schmidty2244@gmail.com"
@@ -16,12 +17,14 @@ sass:
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-remote-theme
+
 social:
   name: Nathaniel Schmidt
   links:
@@ -32,7 +35,6 @@ social:
     - https://www.facebook.com/njsch7
     - https://feeds.feedburner.com/nschmidt/
 
-lang: en-AU
 
 # Specific appearance and order of navigation links
 nav:
