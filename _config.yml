@@ -1,18 +1,20 @@
 timezone: Australia/Melbourne
 lang: en-AU
 title: Nathaniel Schmidt
-tagline: personal site
+name: Nathaniel Schmidt
+Author: Nathaniel Schmidt
 email: "schmidty2244@gmail.com"
 description: Nathaniel Schmidt Github Pages personal site (software project repositories,  blog and percussionist musical endeavours).
 
-url: "https://njschmidt.id.au"
+url: "http://njschmidt.id.au"
 google_analytics:
-github_username: njsch
 
 # SCSS
 sass:
   sass_dir: _sass
   style: compressed
+
+show_excerpts: true
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
@@ -46,8 +48,6 @@ nav:
   - horner.md
   - 1689lbc.md
   - contact.md
-
-show_excerpts: true
 
 environment: prod
 
