@@ -1,5 +1,5 @@
-timezone: Australia/Melbourne
-lang: en-AU
+# timezone: Australia/Melbourne
+# lang: en-AU
 title: Nathaniel Schmidt
 name: Nathaniel Schmidt
 Author: Nathaniel Schmidt
@@ -18,7 +18,7 @@ show_excerpts: true
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
@@ -61,12 +61,12 @@ environment: prod
 #   - vendor/gems/
 #   - vendor/ruby/
 
-social:
-  name: Nathaniel Schmidt
-  links:
-    - https://www.linkedin.com/in/njsch/
-    - https://github.com/njsch
-    - http://njschmidt.id.au
-    - https://www.youtube.com/@njsch
-    - https://www.facebook.com/njsch7
-    - https://feeds.feedburner.com/nschmidt/
+# social:
+#   name: Nathaniel Schmidt
+#   links:
+#     - https://www.linkedin.com/in/njsch/
+#     - https://github.com/njsch
+#     - http://njschmidt.id.au
+#     - https://www.youtube.com/@njsch
+#     - https://www.facebook.com/njsch7
+#     - https://feeds.feedburner.com/nschmidt/
