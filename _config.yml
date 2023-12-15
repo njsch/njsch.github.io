@@ -29,15 +29,24 @@ plugins:
 
 # Specific appearance and order of navigation links
 nav:
-  - index.md
-  - about.md
-  - orgs.md
-  - testimonials
-  - dev.md
-  - percussio.md
-  - horner.md
-  - 1689lbc.md
-  - contact.md
+  - title: Home
+    url: "/"
+  - title: About
+    url: "/about"
+  - title: Organisations
+    url: "/orgs"
+  - title: Testimonials
+    url: "/testimonials"
+  - title: Software Development (Platforms and Activity)
+    url: "/dev"
+  - title: Percussio
+    url: "/percussio"
+  - title: Professor Grant Horner's Ten-List Bible-reading System
+    url: "/horner"
+  - title: The 1677-89/2nd London Baptist Confession of Faith (2LBCF)
+    url: "/1689lbc"
+  - title: Contact
+    url: "/contact"
 
 environment: prod
 

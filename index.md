@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: default
 description: The Home of Nathaniel Schmidt - my Github-Pages site with blog, software projects and activity, affiliations, as well as some general info about some other things of personal interest.
 ---
 
