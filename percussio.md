@@ -32,17 +32,33 @@ My keen interest in this instrument was inspired by seeing [Pete Lockett](https:
 
 ![A picture of me doing a lesson in Sam Evans' studio](/assets/images/30-08-2022_Sam_Thornbury.jpeg)
 
-Then in around March 2022, I started taking lessons with Sam Evans, Ph.D, at the [Melbourne Tabla School](https://www.melbournetablaschool.com/), who is a senior student of Tabla maestro [Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee), as well as [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)), has a [Masters degree](https://www.samevans.net.au/masters.html) in traditional Tabla repertoire and a [doctorate](https://www.samevans.net.au/phd.html) in contemporary Tabla performance. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
+Then in around Febrary &ndash; March 2022, I started taking lessons with Sam Evans, Ph.D, at the [Melbourne Tabla School](https://www.melbournetablaschool.com/), who is a senior student of Tabla maestro Pandit [Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee), as well as Ustad [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)), has a [Masters degree](https://www.samevans.net.au/masters.html) in traditional Tabla repertoire and a [doctorate](https://www.samevans.net.au/phd.html) in contemporary Tabla performance. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
 
 Having learned from the traditions of Pt. Chattergee's style, via Dr. Evans, this means that the beginnings of my tabla repertoire have stemmed mainly from a [gharana](https://digitabla.com/tabla-tradition/gharanas/#theguru-shishyatradition) known as [Farrukhabad](https://www.indianclassicalmusic.com/farrukhabad-gharana), as well as occasionally [Benares](https://digitabla.com/tabla-tradition/six-gharanas/).
 
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and twelve-eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe). It can take up to three-five years of full-time playing for a drum player to become moderately proficient and a further ten years or so to become professionally adept.
 
-In hindsight, it ended up being about eight months before I ended up playing in the MTS concert. Not having a concert in-person for two or three years, owing to COVID-19 lockdowns, caused the performance-ready state of some students to be pushed forward a little. Consequently, there were a few mistakes (nearly all of which may not have been noticed by the average observer) but were there nonetheless. You can watch the Youtube video of the performance here below:
+### Performances
+#### MTS Concert 2022
+In hindsight, it ended up being about eight months before I ended up playing in the MTS concert. Not having a concert in-person for two or three years, owing to COVID-19 lockdowns, caused the performance-ready state of some students to be pushed forward a little. Consequently, there were a couple of noteable mistakes. You can watch the Youtube video of the performance here below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sqxUzHuWHW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Obviously, this was an ultra-beginner piece containing a [theka](https://digitabla.com/reference/compositional-forms/theka/) (accompaniment piece), and three solo pieces (either a [kaida](https://digitabla.com/reference/compositional-forms/kayda/#:~:text=Kāyadā%20–%20कायदा,rule%3B%20system%20of%20rules%3B%20method) and two [tukra](https://digitabla.com/reference/compositional-forms/tukra/#:~:text=Quick%20Definition%3A%20A%20cadential%20composition,Meaning%3A%20piece%3B%20fragment%3B%20bit)s, or a kaida, a tukra and a [paran](https://www.tablalegacy.com/paran#:~:text=Connecting%20to%20the%20Sanskrit%20word,into%20veins%20on%20both%20sides.) &mdash; I can't remember which of the ultimately excluded pieces was a tukra or paran). You can view a much more involved piece, performed in [Jhaptal](https://www.taalgyan.com/taals/jhaptaal/) (an eastern equivalent of a tenth-note time-signature in western notation), here to see what tabla is really capable of:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhkWOaCK7XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Hindustani Riyaz (Practice) Session &mdash; August 2023
+NOTE: I neglected to tune the tabla beforehand: I should have gotten someone else to do it for me, as I can't fully do it myself yet.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5y8aIoillg?si=-AlE-KOO2gvYgWyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### MTS Concert 2023
+Overview:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_wo3J3rchc?si=Gtm7H4p09HjWAgDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Group 3 performance (taal &ndash; jhaptal; tempo &ndash; 60bpm; piece contains &mdash; two tukras, jhaptal theka, bhajan theka, one kaida with six palta and tihai, as well as a rela with five palta but these were taken out):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWJlTraOj6I?si=9pnHDiI_8Txj5t1W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Sam Evans and Rithvik Chands' performance: because, as always, it was so good!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tec56g2tD4g?si=AgiGT2bjDgriExek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Tabla Resources
 Contained below are some resources I have compiled or provided for playing and composition from an accessibility standpoint.
