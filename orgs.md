@@ -9,11 +9,11 @@ Here on this page you can find my affiliations with organisations I belong to at
 ## AES
 The [Audio Engineering Society (AES)](https://aes.org) is an internationally-recognised association of audio engineers. I have a student membership with this organisation and within the [Melbourne section](https://aesmelbourne.org.au).
 
-## AuDA
-[Auda (AU Domain Administration)](https://www.auda.org.au/) is the organisation that defines the policies executed by domain name registrars, concerning Australian domains as identified by the `.au` domain name suffix.  I have an associate membership with this organisation.
-
 ## [Past] ACS
 The [Australian Computer Society](https://www.acs.org.au/) is the professional association for the IT sector in Australia. I used to have a student membership with this organisation, from around August 2020, when I studied Computer Science at Deakin University.
+
+## Blind Information Technology Specialists (BITS)
+[BITS](https://bits-acb.org) is an organisation I have a student membership with, aiming to foster the career development of blind computer professionals; promoting the use of computer technology by blind persons to improve the quality of their personal and professional lives; and advocates for improved information access for all visually impaired people.
 
 ## Can-Do Musos
 [Can-Do Musos](https://candomusos.com/about-us.php) is an organisation seeking to foster and support students with disabilities in their efforts as musicians, endeavouring to challenge existing perceptions about what people can do in their various unique situations. It was founded in 2013 by [Dom Famularo](https://www.domfamularo.com/), [Andrew Hewitt](https://www.drummerstix.com.au/) and others.
