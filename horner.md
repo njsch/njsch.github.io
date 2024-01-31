@@ -15,7 +15,7 @@ By [Prof. Grant Horner, Ph.D](https://www.masters.edu/faculty/grant-horner)
 
 Professor Grant Horner's unusual, challenging, and life-changing Bible-Reading System is unlike any other you have ever seen. Try it for ONE MONTH and find out for yourself ! You will never be the same.
 
-&ldquo;I have more wisdom than all my teachers, for thy testimonies are my meditation.&rdquo; &ndash; Psalm 119:99.
+&ldquo;I have more wisdom than all my teachers, for thy testimonies are my meditation.&rdquo; &mdash; [Psalm 119:99](https://www.biblegateway.com/passage/?search=psalm+119%3A99&version=ASV)
 
 Many people ask me how it is that I know precisely where virtually everything is in my Bible. The answer: this system.
 
