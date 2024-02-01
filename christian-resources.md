@@ -14,4 +14,4 @@ Say goodbye to Bible readng plans! Click [here](/horner-ten-lists/) to find out 
 ### The 2nd London Baptist Confession of Faith (2LBCF or 1689LBC)
 This document was penned in 1677 by Reformed and Calvinistic Baptists in England; however, owing to religious freedom legal restrictions, the confessional document was not more formally, officially published until 1689, after the restrictions had been lifted. You can either view it below or [here](/2lbcf/) in a separate link.
 
-<iframe src="/1689lbc.html" title = "1677-89 (2nd) LBCF" height = "350" width = "650"></iframe>
+<iframe src="/1689lbc.html" title = "1677-89 (2nd) LBCF" width="640" height="1680"></iframe>
