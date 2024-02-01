@@ -1,7 +1,7 @@
 ---
 title: Christian Resources
 description: "Resources on this site and some external links."
-permalink: /christian-Resources/
+permalink: /christian-resources/
 ---
 
 Contained on this page are some resources I have collated, partly for myself as it makes it easier to access them but also in the hope that others may find them useful.
