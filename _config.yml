@@ -35,8 +35,6 @@ nav:
     url: "/about"
   - title: Organisations
     url: "/orgs"
-  - title: Contributions to Eduvis
-    url: "/eduvis"
   - title: Testimonials
     url: "/testimonials"
   - title: Software Development (Platforms and Activity)
