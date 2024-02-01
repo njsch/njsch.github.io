@@ -8,7 +8,7 @@ Contained on this page are some resources I have collated, partly for myself as 
 
 ## Bible Reading Materials
 ### Read the Bible in Self-interchangeable Lists Through Grant Horner's Bible-reading System
-Say goodbye to Bible plans! Click [here](/horner-ten-lists/) to find out more.
+Say goodbye to Bible readng plans! Click [here](/horner-ten-lists/) to find out more.
 
 ## Statements and Confessions of Faith
 ### The 2nd London Baptist Confession of Faith (2LBCF or 1689LBC)
