@@ -41,10 +41,8 @@ nav:
     url: "/dev"
   - title: Percussio
     url: "/percussio"
-  - title: Professor Grant Horner's Ten-List Bible-reading System
-    url: "/horner-ten-lists"
-  - title: The 1677-89/2nd London Baptist Confession of Faith (2LBCF)
-    url: "/1689lbc"
+  - title: Christian Resources
+    url: "/christian-resources"
   - title: Contact
     url: "/contact"
 
