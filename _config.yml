@@ -41,6 +41,8 @@ nav:
     url: "/dev"
   - title: Percussio
     url: "/percussio"
+  - title: Audio Resources
+    url: "/audio"
   - title: Christian Resources
     url: "/christian-resources"
   - title: Contact
