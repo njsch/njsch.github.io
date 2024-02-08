@@ -25,7 +25,7 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 
 ## Resources for Blind and Vision (visually) Impaired Audiences
 ### Social and Health Aid to Developing Countries and Those in Need
-* Christian Blind Mission is the primary organisation known to be involved with this sort of work. Among other websites, here are their [global](https://www.cbm.org) and [Australian](https://www.cbm.org.au) ones.
+* Christian Blind Mission is the primary organisation known to be involved with this sort of work. Among other websites, here are their [global](https://www.cbm.org), [Australian](https://www.cbm.org.au) and [United States](https://www.cbmus.org) ones.
 
 ### Book Libraries
 * [Optasia Ministry's Optasia Library](http://www.optasiaministry.org/library.htm)
