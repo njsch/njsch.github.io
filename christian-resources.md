@@ -23,6 +23,16 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 ### Resources on Christotelic Hermeneutics
 [What is the Christotelic Hermeneutic and Why Should You Care?](https://christthetelos.wordpress.com/2014/09/26/what-is-the-christotelic-hermeneutic-and-why-should-you-care/)
 
+## Systematic Theology
+### Eschatology and Covenantalism
+* [Progressive Dispensationalism](https://www.amazon.com.au/Progressive-Dispensationalism-Craig-Blaising/dp/0801022436): a fantastic book I would recommend to anyone wanting to look further into the theological bridge-building process.
+
+### Other
+* W. A. Grudem's &ldquo;[Systematic Theology](https://www.amazon.com.au/Systematic-Theology-Introduction-Biblical-Doctrine/dp/0310286700)&rdquo;
+
+## Historical Theology
+* G. Allison's &ldquo;[Historical Theology](https://www.amazon.com.au/Historical-Theology-Introduction-Christian-Systematic/dp/0310230136)&rdquo;:
+
 ## Resources for Blind and Vision (visually) Impaired Audiences
 ### Social and Health Aid to Developing Countries and Those in Need
 * Christian Blind Mission is the primary organisation known to be involved with this sort of work. Among other websites, here are their [global](https://www.cbm.org), [Australian](https://www.cbm.org.au) and [United States](https://www.cbmus.org) ones.
