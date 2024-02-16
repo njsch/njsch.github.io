@@ -19,16 +19,16 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 
 <iframe src="/1689lbc.html" title = "1677-89 (2nd) LBCF" width="640" height="1680"></iframe>
 
+#### An Alternative Reading
+[Brandon Crawford](https://prts.edu/profile/brandon-crawford/) has written an interesting book, articulating a rendition of the 2LBCF (confession and catechism) for dispensational readers. Check it out [here](https://www.amazon.com/Baptist-Confession-Catechism-Dispensational-Churches/dp/1649603878).
+
 ## Hermeneutics
 ### Resources on Christotelic Hermeneutics
 [What is the Christotelic Hermeneutic and Why Should You Care?](https://christthetelos.wordpress.com/2014/09/26/what-is-the-christotelic-hermeneutic-and-why-should-you-care/)
 
 ## Systematic Theology
 ### Eschatology and Covenantalism
-* [Progressive Dispensationalism](https://www.amazon.com.au/Progressive-Dispensationalism-Craig-Blaising/dp/0801022436): a fantastic book I would recommend to anyone wanting to look further into the theological bridge-building process.
-
-### Other
-* W. A. Grudem's &ldquo;[Systematic Theology](https://www.amazon.com.au/Systematic-Theology-Introduction-Biblical-Doctrine/dp/0310286700)&rdquo;
+* [Progressive Dispensationalism](https://www.amazon.com.au/Progressive-Dispensationalism-Craig-Blaising/dp/0801022436): a fantastic book I would recommend to anyone wanting to look further into [the theological bridge-building process](https://www.gotquestions.org/progressive-dispensationalism.html) between classical and revised forms of Dispensationalism with Covenant Theology.
 
 ## Historical Theology
 * G. Allison's &ldquo;[Historical Theology](https://www.amazon.com.au/Historical-Theology-Introduction-Christian-Systematic/dp/0310230136)&rdquo;:
