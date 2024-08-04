@@ -8,6 +8,6 @@ to set up this site:
 1. Fork the repo.
 2. Clone your fork.
 3. Go into Settings > Pages on the Github website for the forked repo's settings.
-4. Set up the publishing source to come from a branch and ensure the branch is set to `master`.
+4. Set up the publishing source to come from Github Action via a workflow and ensure it is set to the `github-pages` environment via the `Deploy Jekyll with GitHub Pages dependencies preinstalled` workflow.
 5. Not sure if you may have to remove the CNAME file for my custom domain name or remove the url from the `_config` YAML file.
 6. Make, commit and push your changes.
