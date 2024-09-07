@@ -13,15 +13,12 @@ The [Audio Engineering Society (AES)](https://aes.org) is an internationally-rec
 The [Australian Computer Society](https://www.acs.org.au/) is the professional association for the IT sector in Australia. I used to have a student membership with this organisation, from around August 2020, when I studied Computer Science at Deakin University.
 
 ## Blind Information Technology Specialists (BITS)
-[BITS](https://bits-acb.org) is an organisation I have a student membership with, aiming to foster the career development of blind computer professionals; promoting the use of computer technology by blind persons to improve the quality of their personal and professional lives; and advocates for improved information access for all visually impaired people.
+[BITS](https://bits-acb.org) is an organisation I have a membership with, aiming to foster the career development of blind computer professionals; promoting the use of computer technology by blind persons to improve the quality of their personal and professional lives; and advocates for improved information access for all visually impaired people.
 
 ## Can-Do Musos
 [Can-Do Musos](https://candomusos.com/about-us.php) is an organisation seeking to foster and support students with disabilities in their efforts as musicians, endeavouring to challenge existing perceptions about what people can do in their various unique situations. It was founded in 2013 by [Dom Famularo](https://www.domfamularo.com/), [Andrew Hewitt](https://www.drummerstix.com.au/) and others.
 
-I am a part of this organisation's [global family](https://candomusos.com/profile-nathaniel-schmidt.php).
-
-## [Past] Deakin Launch Network (DLN)
-The [DLN](https://launchnetwork.deakin.edu.au/) is an organisation that fosters development of career and employment opportunities for people from disadvantaged or underprivileged situations, backgrounds and minority groups.  It creates material that promotes networking and other necessary skills for the workforce.  I had a student membership with this organisation.
+I am a member of this organisation's [global family](https://candomusos.com/profile-nathaniel-schmidt.php).
 
 ## Eduvis
 Eduvis is a not-for-profit organisation I have done some work for, seeking to provide material resources and practical strategies for students with a vision impairment who want to take up further study in mathematics and physical education at higher levels of secondary education; and potentially on to tertiary study.  Its website can be found [here](http://eduvis.com.au/) and the organisation's GitHub presence, of which I am a co-owner, can be found [here](https://github.com/eduvis/).
