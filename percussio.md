@@ -41,6 +41,21 @@ Having learned from the traditions of Pt. Chattergee's style, via Dr. Evans, thi
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and twelve-eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe). It can take up to three-five years of full-time playing for a drum player to become moderately proficient and a further ten years or so to become professionally adept.
 
 ### Performances
+#### Hindustani Riyaz (Practice) Session &mdash; November 2024
+At this riyaz (music practice) session, I did a tabla accompaniment for a sitar recital by Shreya Rana; and a tabla solo of my own, accompanied by Dennis Phelan, who does a lot of the sitar accompaniments at the MTS anual end-of-year concerts.. Enjoy.
+
+Tabla accompaniment for sitar recital, part 1 (recorded by Sumegh Muley):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eY6nfYedhbQ?si=7Wx5TwBgJ37jjksH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Part 2 of the same:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ7ZGHoGSNI?si=mPsP_9YWzz7a7tdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tabla solo (re-hashed 2024 MTS concert piece with the two initial palta included, recorded by Shreya Rana):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bft8DgtCxQQ?si=luj7KGP7wrGFgdyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The vast majority of it was also recorded by my request from Sumegh Muley:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHibWIcjztU?si=_hpV9oM0zzsHj1ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### MTS Concert 2024
 Overview:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMHM7w9j_IM?si=bxKpFUpWYo8LLAHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,7 +77,7 @@ Sam Evans and Rithvik Chands' performance: because, as always, it was so good!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tec56g2tD4g?si=AgiGT2bjDgriExek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Hindustani Riyaz (Practice) Session &mdash; August 2023
-NOTE: I neglected to tune the tabla beforehand: I should have gotten someone else to do it for me, as I can't fully do it myself yet.
+NOTE: I neglected to tune the tabla beforehand: I should have gotten someone else to do it for me, as I can't [couldn't] fully do it myself yet.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5y8aIoillg?si=-AlE-KOO2gvYgWyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### MTS Concert 2022
