@@ -18,7 +18,6 @@ You can watch one of my family's earlier laid-back parody musical endeavours bel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BuhnGdk6DcE" title="'Ben' 03-12-10 - Youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 In high school, I played in a school band called Soul Faction which played mostly, broadly in the funk genre. Between roughly 2009&ndash;2014, I played the drums for the music team at a Baptist church I used to attend. And from 2017 or maybe 2018&ndash;2020, bfore COVID-19 hit the world scene, I played at the [Albury Presbyterian Churches](http://alburychurch.org.au/)' [Morning Church](http://alburychurch.org.au/locations/church_morningchurch/) service.
 
 In around 2012 or so, I purchased a [Pearl](https://pearldrum.com/) drum kit to go with some [Zildjian](https://zildjian.com/) cymbals I got for my birthday. It served me well enough, although as I was studying and living on campus, it didn't get used a lot. And then in 2021, I gave the kit to my cousin for Christmas, as I thought he would like it and that the kit would get more productive on-going use that way. I also could not fit the kit into my share house, so it wouldn't have been able to be used. But I got fidgety, so I started seeking out other options.
@@ -60,8 +59,9 @@ The vast majority of it was also recorded by my request from Sumegh Muley:
 Overview:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMHM7w9j_IM?si=bxKpFUpWYo8LLAHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Group 5 performance (taal &ndash; deepchandi/rupak; tempo &ndash; 65-75bpm; piece contains &mdash; four tukras (unless one might be a mukra), deepchandi theka, rupak theka, one kaida with six palta and tihai (first two were taken out), as well as a rela (lead into via chand from rupak theka):
+Group 5 performance (taal &ndash; deepchandi/rupak; tempo &ndash; 114bpm; piece contains &mdash; four tukras (unless one might be a mukra), deepchandi theka, rupak theka, one kaida with six palta and tihai (first two were taken out), as well as a rela (lead into via chand from rupak theka):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dgwMbiVI2Qw?si=Ag6UaKl93FArn_OK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Note: the performance starts a bit out-of-sync &mdash; this could be because Sam and I were trying to slow it down a bit. But it settles down around the 1min:30sec mark or so.
 
 Sam Evans and Rithvik Chands' performance:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/savZnwYnENA?si=5_xBTnei4o6emfNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
