@@ -39,8 +39,8 @@ Having learned from the traditions of Pt. Chattergee's style, via Dr. Evans, thi
 
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and twelve-eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe). It can take up to three-five years of full-time playing for a drum player to become moderately proficient and a further ten years or so to become professionally adept.
 
-### Remembering ustad Zakir Hussain
-Zakir Hussain was one of the most influential tabla players of the 20th-21st centuries. He was a master of both traditional and contemporary tabla repertoire and performance. I remember earlier this year (2024) when I got a retired high school woodwork teacher family friend of ours to make a tool for me to stuff the string back into the two layers of skin for my tablas, he got all excited when he heard me playing, because being really into The Beatles, I don't he realised that it is one of the unique sounds used for a couple of their songs. The reason why you hear that sound is likely because of Zakirji and his musical contributions with superstars such as George Harrison.
+### Remembering Ustad Zakir Hussain
+Zakir Hussain was one of the most influential tabla players of the 20th-21st centuries. He was a master of both traditional and contemporary tabla repertoire and performance. I remember earlier this year (2024) when I got a retired high school woodwork teacher family friend of ours to make a tool for me to stuff the string back into the two layers of skin for my tablas, he got all excited when he heard me playing, because being really into The Beatles, I don't think he previously realised that the tabla is one of the unique sounds used for a couple of their songs. The reason why you hear that sound is likely because of Zakirji and his musical contributions with superstars such as George Harrison.
 
 I have always enjoyed listening to his music. Several of the kaidas I know from my teacher are ones he got from Zakirji, such as
   
@@ -57,7 +57,7 @@ Dha tetekredhete dhatetekredhete dhaterekete
 thakaterekete dhiinagena dhatidhagenadhiinagena
 ```
 
-Unfortunately, he sadly passed away towards the very end of 2024. since he made such a big impact and my teacher learned from him for a while, I created a playlist containing some of my own performances that contain some of his kaidas, along with other videos of his own playing that reflect the technical intricacy of his own legacy. You can view it below:
+Unfortunately, he sadly passed away in December 2024. since he made such a big impact and my teacher learned from him for a while, I created a playlist containing some of my own performances that contain some of his kaidas, along with other videos of his own playing that reflect the technical intricacy of his own percussive legacy. You can view it below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RDRfTPu4t0Go_IdV&amp;list=PLrTs5zW4NdfOTOCT5b1PltWP4EvOHIUzB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Performances
