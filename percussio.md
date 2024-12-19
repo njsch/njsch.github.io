@@ -4,7 +4,7 @@ description: "On this page, find info about my musical (mainly percussion) drum 
 permalink: /percussio/
 ---
 
-Percussio is simply a [Latin word](https://en.wiktionary.org/wiki/percussio#Latin) that is one of the several roots from which the English word percussion is derived. On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way regarding sourceing, purchasing and accessible ways of playing the drums, as the internet can be a bit of an unreliable source of information for this sometimes; and it is rare if not unlikely that a totally blind person has done this before.
+Percussio is simply a [Latin word](https://en.wiktionary.org/wiki/percussio#Latin) that is one of the [several roots from which the English word percussion is derived](https://en.wiktionary.org/wiki/percussion). On this page, I intend to put info about any potential personal projects outside of my lessons. There may be videos, or music transcripts. Also anything I learn on the way regarding sourceing, purchasing and accessible ways of playing the drums, as the internet can be a bit of an unreliable source of information for this sometimes; and it is rare if not unlikely that a totally blind person has done this before.
 
 Projects may also be found on [Youtube](https://www.youtube.com/c/nathanieljschmidt).
 
