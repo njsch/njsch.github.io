@@ -33,11 +33,32 @@ My first unofficial drum lesson was from one of my Dad's first cousins, shortly 
 
 ![A picture of me doing a lesson in Sam Evans' studio](/assets/images/30-08-2022_Sam_Thornbury.jpeg)
 
-Then in around Febrary &ndash; March 2022, I started taking lessons with Sam Evans, Ph.D, at the [Melbourne Tabla School](https://www.melbournetablaschool.com/), who is a senior student of Tabla maestro Pandit [Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee), as well as Ustad [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)), has a [Masters degree](https://www.samevans.net.au/masters.html) in traditional Tabla repertoire and a [doctorate](https://www.samevans.net.au/phd.html) in contemporary Tabla performance. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
+Then in around Febrary &ndash; March 2022, I started taking lessons with Sam Evans, Ph.D, at the [Melbourne Tabla School](https://www.melbournetablaschool.com/), who is a senior student of Tabla maestro Pandit [Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee), as well as the late Ustad [Zakir Hussain](https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)), has a [Masters degree](https://www.samevans.net.au/masters.html) in traditional Tabla repertoire and a [doctorate](https://www.samevans.net.au/phd.html) in contemporary Tabla performance. In July 2022, I purchased my first complete Tabla set from India direct and by August, I had received it with excellent product quality and delivery service, from [Somnath Kakade](http://www.somnathkakade.com/), a well-known Tabla manufacturer from the city of Pune, who makes tabla in Mumbai style.
 
 Having learned from the traditions of Pt. Chattergee's style, via Dr. Evans, this means that the beginnings of my tabla repertoire have stemmed mainly from a [gharana](https://digitabla.com/tabla-tradition/gharanas/#theguru-shishyatradition) known as [Farrukhabad](https://www.indianclassicalmusic.com/farrukhabad-gharana), as well as occasionally [Benares](https://digitabla.com/tabla-tradition/six-gharanas/).
 
 It's going to be a long commitment journey: I'm told about twelve months before I can play in the [MTS anual concert](https://www.melbournetablaschool.com/events.html); and twelve-eighteen months before I am taught how to tune the drums. The technique is very complex and utterly unlike any drums I have played previously (acoustic drum kit and Djembe). It can take up to three-five years of full-time playing for a drum player to become moderately proficient and a further ten years or so to become professionally adept.
+
+### Remembering ustad Zakir Hussain
+Zakir Hussain was one of the most influential tabla players of the 20th-21st centuries. He was a master of both traditional and contemporary tabla repertoire and performance. I remember earlier this year (2024) when I got a retired high school woodwork teacher family friend of ours to make a tool for me to stuff the string back into the two layers of skin for my tablas, he got all excited when he heard me playing, because being really into The Beatles, I don't he realised that it is one of the unique sounds used for a couple of their songs. The reason why you hear that sound is likely because of Zakirji and his musical contributions with superstars such as George Harrison.
+
+I have always enjoyed listening to his music. Several of the kaidas I know from my teacher are ones he got from Zakirji, such as
+  
+`dha ti dha ge na dha terekete dha ti dha ge dhii na ge na`,
+  
+```
+DHANAGEDHETEDHETE DHAGENA DHAGEDHIINAGENA DHETEDHETE DHAGENA DHATIDHAGENADHIINAGENA
+```
+  
+`DHATREKEDHETETEGENA DHATIGENADHIINAGENA` and
+  
+```
+Dha tetekredhete dhatetekredhete dhaterekete
+thakaterekete dhiinagena dhatidhagenadhiinagena
+```
+
+Unfortunately, he sadly passed away towards the very end of 2024. since he made such a big impact and my teacher learned from him for a while, I created a playlist containing some of my own performances that contain some of his kaidas, along with other videos of his own playing that reflect the technical intricacy of his own legacy. You can view it below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RDRfTPu4t0Go_IdV&amp;list=PLrTs5zW4NdfOTOCT5b1PltWP4EvOHIUzB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Performances
 #### Hindustani Riyaz (Practice) Session &mdash; November 2024
