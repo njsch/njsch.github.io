@@ -23,6 +23,9 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 [Brandon Crawford](https://prts.edu/profile/brandon-crawford/) has written an interesting book, articulating a rendition of the 2LBCF (confession and catechism) for dispensational readers. Check it out [here](https://www.amazon.com/Baptist-Confession-Catechism-Dispensational-Churches/dp/1649603878).
 
 ## Hermeneutics
+### Christotelic Hermeneutics
+[What is the difference between a Christocentric and a Christotelic hermeneutic?](https://www.gotquestions.org/Christocentric-Christotelic.html)
+
 ### Resources on Christotelic Hermeneutics
 
 
