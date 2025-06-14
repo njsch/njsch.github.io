@@ -24,7 +24,7 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 
 ## Hermeneutics
 ### Resources on Christotelic Hermeneutics
-[What is the Christotelic Hermeneutic and Why Should You Care?](https://christthetelos.wordpress.com/2014/09/26/what-is-the-christotelic-hermeneutic-and-why-should-you-care/)
+
 
 ## Systematic Theology
 ### Eschatology and Covenantalism
