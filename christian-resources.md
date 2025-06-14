@@ -26,9 +26,6 @@ This document was penned in 1677 by Reformed and Calvinistic Baptists in England
 ### Christotelic Hermeneutics
 [What is the difference between a Christocentric and a Christotelic hermeneutic?](https://www.gotquestions.org/Christocentric-Christotelic.html)
 
-### Resources on Christotelic Hermeneutics
-
-
 ## Systematic Theology
 ### Eschatology and Covenantalism
 * [Progressive Dispensationalism](https://www.amazon.com.au/Progressive-Dispensationalism-Craig-Blaising/dp/0801022436): a fantastic book I would recommend to anyone wanting to look further into [the theological bridge-building process](https://www.gotquestions.org/progressive-dispensationalism.html) between classical and revised forms of Dispensationalism with Covenant Theology.
