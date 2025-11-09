@@ -1,4 +1,4 @@
----
+<!-----
 title: Christian Resources
 description: "Resources on this site and some external links."
 permalink: /christian-resources/
@@ -53,3 +53,4 @@ Okay, one must note that [C. S. Lewis](https://www.cslewis.com/uk/about-cs-lewis
 
 ### Other Links
 * [The Interactive Christian Community](https://iccsite.org/member/index.php), an affiliate of [Spoken Word Ministries](http://spokenwordministries.org)
+-->
