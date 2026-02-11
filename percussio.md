@@ -64,16 +64,10 @@ Unfortunately, he sadly passed away in December 2024. since he made such a big i
 #### Hindustani Riyaz (Practice) Session &mdash; November 2024
 At this riyaz (music practice) session, I did a tabla accompaniment for a sitar recital by Shreya Rana; and a tabla solo of my own, accompanied by Dennis Phelan, who does a lot of the sitar accompaniments at the MTS anual end-of-year concerts.. Enjoy.
 
-Tabla accompaniment for sitar recital, part 1 (recorded by Sumegh Muley):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eY6nfYedhbQ?si=7Wx5TwBgJ37jjksH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Part 2 of the same:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ7ZGHoGSNI?si=mPsP_9YWzz7a7tdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Tabla solo (re-hashed 2024 MTS concert piece with the two initial palta included, recorded by Shreya Rana):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bft8DgtCxQQ?si=luj7KGP7wrGFgdyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The vast majority of it was also recorded by my request from Sumegh Muley:
+The vast majority of it was also recorded AT my request BY Sumegh Muley:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHibWIcjztU?si=_hpV9oM0zzsHj1ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### MTS Concert 2024
